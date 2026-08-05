@@ -1,14 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T18:50:36Z",
+  "updatedAt": "2026-08-05T18:52:58Z",
   "total": 10315,
   "pending": 0,
-  "available": 2404,
-  "taken": 7094,
-  "error": 817,
+  "available": 2391,
+  "taken": 7101,
+  "error": 823,
   "categories": {
-    "words": 209,
-    "common": 2143,
+    "common": 2136,
     "design": 7,
     "technology": 2,
     "music": 11,
@@ -16,6 +15,7 @@
     "colors": 2,
     "emotions": 3,
     "animals": 13,
+    "words": 203,
     "science": 5,
     "places": 2
   }
