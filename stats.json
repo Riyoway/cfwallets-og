@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T14:37:08Z",
+  "updatedAt": "2026-08-05T14:39:27Z",
   "total": 10315,
   "pending": 0,
-  "available": 3050,
-  "taken": 6970,
+  "available": 3049,
+  "taken": 6971,
   "error": 295,
   "categories": {
-    "words": 337,
+    "words": 336,
     "common": 2614,
     "food": 16,
     "emotions": 8,
