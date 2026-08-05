@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T15:23:45Z",
+  "updatedAt": "2026-08-05T15:25:50Z",
   "total": 10315,
   "pending": 0,
-  "available": 2994,
-  "taken": 6990,
+  "available": 2993,
+  "taken": 6991,
   "error": 331,
   "categories": {
     "animals": 26,
-    "words": 303,
+    "words": 302,
     "common": 2596,
     "design": 15,
     "music": 16,
