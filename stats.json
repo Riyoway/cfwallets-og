@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T15:52:39Z",
+  "updatedAt": "2026-08-05T15:54:45Z",
   "total": 10315,
   "pending": 0,
-  "available": 2718,
-  "taken": 7034,
-  "error": 563,
+  "available": 2683,
+  "taken": 7039,
+  "error": 593,
   "categories": {
-    "common": 2371,
+    "common": 2336,
     "design": 10,
     "technology": 4,
     "gaming": 1,
