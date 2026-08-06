@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T14:09:57Z",
+  "updatedAt": "2026-08-06T14:13:08Z",
   "total": 10315,
   "pending": 0,
-  "available": 257,
-  "taken": 7620,
-  "error": 2438,
+  "available": 199,
+  "taken": 7632,
+  "error": 2484,
   "categories": {
-    "common": 244,
-    "words": 12,
+    "common": 188,
+    "words": 10,
     "places": 1
   }
 }
