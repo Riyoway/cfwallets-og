@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T02:34:38Z",
+  "updatedAt": "2026-08-06T02:36:57Z",
   "total": 10315,
   "pending": 0,
-  "available": 1774,
-  "taken": 7253,
+  "available": 1772,
+  "taken": 7255,
   "error": 1288,
   "categories": {
-    "common": 1604,
+    "common": 1602,
     "words": 137,
     "design": 3,
     "music": 10,
