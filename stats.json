@@ -1,18 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T17:32:04Z",
+  "updatedAt": "2026-08-06T17:34:40Z",
   "total": 10315,
   "pending": 0,
-  "available": 67,
+  "available": 50,
   "taken": 7890,
-  "error": 2358,
+  "error": 2375,
   "categories": {
-    "common": 53,
-    "design": 4,
-    "music": 1,
-    "food": 3,
-    "colors": 1,
+    "common": 34,
     "emotions": 1,
-    "words": 4
+    "animals": 5,
+    "words": 10
   }
 }
