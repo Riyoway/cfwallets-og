@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T22:10:02Z",
+  "updatedAt": "2026-08-06T22:12:24Z",
   "source": "Cloudflare Pay availability checks",
   "api": "https://cloudflare.pay/api/check?tag=",
   "notice": "Availability can change at any time. Recheck before reserving."
