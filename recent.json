@@ -1,18 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T03:00:06Z",
+  "updatedAt": "2026-08-06T03:02:25Z",
   "items": [
-    {
-      "tag": "pointing",
-      "normalized": "pointing",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:51:56Z",
-      "last_checked": "2026-08-06T03:00:06Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 325
-    },
     {
       "tag": "plastics",
       "normalized": "plastics",
@@ -20,31 +9,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:51Z",
-      "last_checked": "2026-08-06T03:00:05Z",
+      "last_checked": "2026-08-06T03:02:25Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 403
-    },
-    {
-      "tag": "plymouth",
-      "normalized": "plymouth",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:51:54Z",
-      "last_checked": "2026-08-06T03:00:05Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 375
-    },
-    {
-      "tag": "periodic",
-      "normalized": "periodic",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:51:45Z",
-      "last_checked": "2026-08-06T03:00:04Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 311
+      "latency_ms": 262
     },
     {
       "tag": "petition",
@@ -53,9 +20,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:48Z",
-      "last_checked": "2026-08-06T03:00:04Z",
+      "last_checked": "2026-08-06T03:02:24Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 372
+      "latency_ms": 266
     },
     {
       "tag": "performs",
@@ -64,9 +31,20 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:45Z",
-      "last_checked": "2026-08-06T03:00:03Z",
+      "last_checked": "2026-08-06T03:02:23Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 294
+      "latency_ms": 255
+    },
+    {
+      "tag": "periodic",
+      "normalized": "periodic",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:51:45Z",
+      "last_checked": "2026-08-06T03:02:23Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 283
     },
     {
       "tag": "patients",
@@ -75,9 +53,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:41Z",
-      "last_checked": "2026-08-06T03:00:02Z",
+      "last_checked": "2026-08-06T03:02:22Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 301
+      "latency_ms": 296
     },
     {
       "tag": "patterns",
@@ -86,9 +64,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:42Z",
-      "last_checked": "2026-08-06T03:00:02Z",
+      "last_checked": "2026-08-06T03:02:22Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 284
+      "latency_ms": 264
     },
     {
       "tag": "packages",
@@ -97,9 +75,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:37Z",
-      "last_checked": "2026-08-06T03:00:01Z",
+      "last_checked": "2026-08-06T03:02:21Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 323
+      "latency_ms": 272
     },
     {
       "tag": "parental",
@@ -108,9 +86,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:39Z",
-      "last_checked": "2026-08-06T03:00:01Z",
+      "last_checked": "2026-08-06T03:02:21Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 296
+      "latency_ms": 268
     },
     {
       "tag": "overhead",
@@ -119,9 +97,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:34Z",
-      "last_checked": "2026-08-06T03:00:00Z",
+      "last_checked": "2026-08-06T03:02:20Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 339
+      "latency_ms": 320
     },
     {
       "tag": "overseas",
@@ -130,20 +108,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:35Z",
-      "last_checked": "2026-08-06T03:00:00Z",
+      "last_checked": "2026-08-06T03:02:20Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 363
-    },
-    {
-      "tag": "outlined",
-      "normalized": "outlined",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:51:34Z",
-      "last_checked": "2026-08-06T02:59:59Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 286
+      "latency_ms": 263
     },
     {
       "tag": "outreach",
@@ -152,9 +119,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:34Z",
-      "last_checked": "2026-08-06T02:59:59Z",
+      "last_checked": "2026-08-06T03:02:19Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 359
+      "latency_ms": 360
     },
     {
       "tag": "outdoors",
@@ -163,9 +130,20 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:33Z",
-      "last_checked": "2026-08-06T02:59:58Z",
+      "last_checked": "2026-08-06T03:02:18Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 279
+      "latency_ms": 311
+    },
+    {
+      "tag": "outlined",
+      "normalized": "outlined",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:51:34Z",
+      "last_checked": "2026-08-06T03:02:18Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 265
     },
     {
       "tag": "oriented",
@@ -174,9 +152,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:32Z",
-      "last_checked": "2026-08-06T02:59:57Z",
+      "last_checked": "2026-08-06T03:02:17Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 331
+      "latency_ms": 286
     },
     {
       "tag": "outcomes",
@@ -185,9 +163,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:32Z",
-      "last_checked": "2026-08-06T02:59:57Z",
+      "last_checked": "2026-08-06T03:02:17Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 316
+      "latency_ms": 289
     },
     {
       "tag": "nitrogen",
@@ -196,9 +174,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:13Z",
-      "last_checked": "2026-08-06T02:59:56Z",
+      "last_checked": "2026-08-06T03:02:16Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 410
+      "latency_ms": 320
     },
     {
       "tag": "normally",
@@ -207,9 +185,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:13Z",
-      "last_checked": "2026-08-06T02:59:56Z",
+      "last_checked": "2026-08-06T03:02:16Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 404
+      "latency_ms": 266
     },
     {
       "tag": "naturals",
@@ -218,9 +196,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:08Z",
-      "last_checked": "2026-08-06T02:59:55Z",
+      "last_checked": "2026-08-06T03:02:15Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 404
+      "latency_ms": 357
     },
     {
       "tag": "necklace",
@@ -229,9 +207,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:09Z",
-      "last_checked": "2026-08-06T02:59:55Z",
+      "last_checked": "2026-08-06T03:02:15Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 300
+      "latency_ms": 308
     },
     {
       "tag": "multiple",
@@ -240,42 +218,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:06Z",
-      "last_checked": "2026-08-06T02:59:54Z",
+      "last_checked": "2026-08-06T03:02:14Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 289
-    },
-    {
-      "tag": "morrison",
-      "normalized": "morrison",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:51:04Z",
-      "last_checked": "2026-08-06T02:59:53Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 301
-    },
-    {
-      "tag": "mounting",
-      "normalized": "mounting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:51:04Z",
-      "last_checked": "2026-08-06T02:59:53Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 265
-    },
-    {
-      "tag": "monitors",
-      "normalized": "monitors",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:51:01Z",
-      "last_checked": "2026-08-06T02:59:52Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 334
+      "latency_ms": 360
     },
     {
       "tag": "moreover",
@@ -284,9 +229,42 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:03Z",
-      "last_checked": "2026-08-06T02:59:52Z",
+      "last_checked": "2026-08-06T03:02:13Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 283
+      "latency_ms": 980
+    },
+    {
+      "tag": "morrison",
+      "normalized": "morrison",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:51:04Z",
+      "last_checked": "2026-08-06T03:02:13Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 420
+    },
+    {
+      "tag": "mounting",
+      "normalized": "mounting",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:51:04Z",
+      "last_checked": "2026-08-06T03:02:13Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 304
+    },
+    {
+      "tag": "monitors",
+      "normalized": "monitors",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:51:01Z",
+      "last_checked": "2026-08-06T03:02:12Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 303
     },
     {
       "tag": "modified",
@@ -295,9 +273,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:59Z",
-      "last_checked": "2026-08-06T02:59:51Z",
+      "last_checked": "2026-08-06T03:02:11Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 371
+      "latency_ms": 280
     },
     {
       "tag": "moisture",
@@ -306,20 +284,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:51:00Z",
-      "last_checked": "2026-08-06T02:59:51Z",
+      "last_checked": "2026-08-06T03:02:11Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 334
-    },
-    {
-      "tag": "modeling",
-      "normalized": "modeling",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:58Z",
-      "last_checked": "2026-08-06T02:59:50Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 292
+      "latency_ms": 267
     },
     {
       "tag": "moderate",
@@ -328,9 +295,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:59Z",
-      "last_checked": "2026-08-06T02:59:50Z",
+      "last_checked": "2026-08-06T03:02:10Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 311
+      "latency_ms": 274
     },
     {
       "tag": "mistakes",
@@ -339,9 +306,20 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:56Z",
-      "last_checked": "2026-08-06T02:59:49Z",
+      "last_checked": "2026-08-06T03:02:09Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 258
+      "latency_ms": 271
+    },
+    {
+      "tag": "modeling",
+      "normalized": "modeling",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:58Z",
+      "last_checked": "2026-08-06T03:02:09Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 274
     },
     {
       "tag": "minimize",
@@ -350,9 +328,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:53Z",
-      "last_checked": "2026-08-06T02:59:48Z",
+      "last_checked": "2026-08-06T03:02:08Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 286
+      "latency_ms": 325
     },
     {
       "tag": "missions",
@@ -361,9 +339,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:55Z",
-      "last_checked": "2026-08-06T02:59:48Z",
+      "last_checked": "2026-08-06T03:02:08Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 269
+      "latency_ms": 273
     },
     {
       "tag": "metallic",
@@ -372,9 +350,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:49Z",
-      "last_checked": "2026-08-06T02:59:47Z",
+      "last_checked": "2026-08-06T03:02:07Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 293
+      "latency_ms": 349
     },
     {
       "tag": "midlands",
@@ -383,9 +361,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:50Z",
-      "last_checked": "2026-08-06T02:59:47Z",
+      "last_checked": "2026-08-06T03:02:07Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 295
+      "latency_ms": 308
     },
     {
       "tag": "membrane",
@@ -394,31 +372,20 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:45Z",
-      "last_checked": "2026-08-06T02:59:46Z",
+      "last_checked": "2026-08-06T03:02:06Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 330
+      "latency_ms": 294
     },
     {
       "tag": "memorial",
       "normalized": "memorial",
       "category": "common",
       "source": "common",
-      "status": "available",
+      "status": "taken",
       "first_available": "2026-08-05T09:50:45Z",
-      "last_checked": "2026-08-06T02:59:46Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 275
-    },
-    {
-      "tag": "manually",
-      "normalized": "manually",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:35Z",
-      "last_checked": "2026-08-06T02:59:45Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 344
+      "last_checked": "2026-08-06T03:02:06Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 218
     },
     {
       "tag": "meetings",
@@ -427,20 +394,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:44Z",
-      "last_checked": "2026-08-06T02:59:45Z",
+      "last_checked": "2026-08-06T03:02:05Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 295
-    },
-    {
-      "tag": "managing",
-      "normalized": "managing",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:34Z",
-      "last_checked": "2026-08-06T02:59:44Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 991
+      "latency_ms": 294
     },
     {
       "tag": "manitoba",
@@ -449,9 +405,20 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:35Z",
-      "last_checked": "2026-08-06T02:59:44Z",
+      "last_checked": "2026-08-06T03:02:04Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 563
+      "latency_ms": 267
+    },
+    {
+      "tag": "manually",
+      "normalized": "manually",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:35Z",
+      "last_checked": "2026-08-06T03:02:04Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 298
     },
     {
       "tag": "mainland",
@@ -460,9 +427,20 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:32Z",
-      "last_checked": "2026-08-06T02:59:43Z",
+      "last_checked": "2026-08-06T03:02:03Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 335
+      "latency_ms": 333
+    },
+    {
+      "tag": "managing",
+      "normalized": "managing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:34Z",
+      "last_checked": "2026-08-06T03:02:03Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 296
     },
     {
       "tag": "literacy",
@@ -471,9 +449,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:29Z",
-      "last_checked": "2026-08-06T02:59:42Z",
+      "last_checked": "2026-08-06T03:02:02Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 371
+      "latency_ms": 267
     },
     {
       "tag": "literary",
@@ -482,9 +460,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:30Z",
-      "last_checked": "2026-08-06T02:59:42Z",
+      "last_checked": "2026-08-06T03:02:02Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 293
+      "latency_ms": 295
     },
     {
       "tag": "lightbox",
@@ -493,9 +471,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:26Z",
-      "last_checked": "2026-08-06T02:59:41Z",
+      "last_checked": "2026-08-06T03:02:01Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 820
+      "latency_ms": 335
     },
     {
       "tag": "limiting",
@@ -504,20 +482,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:27Z",
-      "last_checked": "2026-08-06T02:59:41Z",
+      "last_checked": "2026-08-06T03:02:01Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 362
-    },
-    {
-      "tag": "licensed",
-      "normalized": "licensed",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:25Z",
-      "last_checked": "2026-08-06T02:59:40Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 286
+      "latency_ms": 268
     },
     {
       "tag": "licenses",
@@ -526,9 +493,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:25Z",
-      "last_checked": "2026-08-06T02:59:40Z",
+      "last_checked": "2026-08-06T03:02:00Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 268
+      "latency_ms": 355
     },
     {
       "tag": "lectures",
@@ -537,9 +504,20 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:23Z",
-      "last_checked": "2026-08-06T02:59:39Z",
+      "last_checked": "2026-08-06T03:01:59Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 339
+      "latency_ms": 268
+    },
+    {
+      "tag": "licensed",
+      "normalized": "licensed",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:25Z",
+      "last_checked": "2026-08-06T03:01:59Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 276
     },
     {
       "tag": "launches",
@@ -548,9 +526,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:21Z",
-      "last_checked": "2026-08-06T02:59:38Z",
+      "last_checked": "2026-08-06T03:01:58Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 269
+      "latency_ms": 273
     },
     {
       "tag": "learners",
@@ -559,9 +537,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:22Z",
-      "last_checked": "2026-08-06T02:59:38Z",
+      "last_checked": "2026-08-06T03:01:58Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 270
+      "latency_ms": 365
     },
     {
       "tag": "judicial",
@@ -570,9 +548,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:15Z",
-      "last_checked": "2026-08-06T02:59:37Z",
+      "last_checked": "2026-08-06T03:01:57Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 331
+      "latency_ms": 265
     },
     {
       "tag": "knitting",
@@ -581,669 +559,9 @@
       "source": "common",
       "status": "available",
       "first_available": "2026-08-05T09:50:19Z",
-      "last_checked": "2026-08-06T02:59:37Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 273
-    },
-    {
-      "tag": "journals",
-      "normalized": "journals",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:15Z",
-      "last_checked": "2026-08-06T02:59:36Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 309
-    },
-    {
-      "tag": "webcast",
-      "normalized": "webcast",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:41:52Z",
-      "last_checked": "2026-08-06T02:59:36Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 312
-    },
-    {
-      "tag": "wearing",
-      "normalized": "wearing",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:41:51Z",
-      "last_checked": "2026-08-06T02:59:35Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 338
-    },
-    {
-      "tag": "webcams",
-      "normalized": "webcams",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:41:51Z",
-      "last_checked": "2026-08-06T02:59:35Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 273
-    },
-    {
-      "tag": "watched",
-      "normalized": "watched",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:41:48Z",
-      "last_checked": "2026-08-06T02:59:34Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 292
-    },
-    {
-      "tag": "wanting",
-      "normalized": "wanting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:41:46Z",
-      "last_checked": "2026-08-06T02:59:33Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 305
-    },
-    {
-      "tag": "warming",
-      "normalized": "warming",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:41:46Z",
-      "last_checked": "2026-08-06T02:59:33Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 341
-    },
-    {
-      "tag": "involved",
-      "normalized": "involved",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:09Z",
-      "last_checked": "2026-08-06T02:59:32Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 341
-    },
-    {
-      "tag": "involves",
-      "normalized": "involves",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:10Z",
-      "last_checked": "2026-08-06T02:59:32Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 270
-    },
-    {
-      "tag": "intimate",
-      "normalized": "intimate",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:06Z",
-      "last_checked": "2026-08-06T02:59:31Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 264
-    },
-    {
-      "tag": "intranet",
-      "normalized": "intranet",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:07Z",
-      "last_checked": "2026-08-06T02:59:31Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 298
-    },
-    {
-      "tag": "interval",
-      "normalized": "interval",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:05Z",
-      "last_checked": "2026-08-06T02:59:30Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 273
-    },
-    {
-      "tag": "inserted",
-      "normalized": "inserted",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:03Z",
-      "last_checked": "2026-08-06T02:59:29Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 282
-    },
-    {
-      "tag": "intended",
-      "normalized": "intended",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:04Z",
-      "last_checked": "2026-08-06T02:59:29Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 289
-    },
-    {
-      "tag": "infrared",
-      "normalized": "infrared",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:00Z",
-      "last_checked": "2026-08-06T02:59:28Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 275
-    },
-    {
-      "tag": "injuries",
-      "normalized": "injuries",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:01Z",
-      "last_checked": "2026-08-06T02:59:28Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 307
-    },
-    {
-      "tag": "infected",
-      "normalized": "infected",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:59Z",
-      "last_checked": "2026-08-06T02:59:27Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 347
-    },
-    {
-      "tag": "informed",
-      "normalized": "informed",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:50:00Z",
-      "last_checked": "2026-08-06T02:59:27Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 306
-    },
-    {
-      "tag": "incurred",
-      "normalized": "incurred",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:57Z",
-      "last_checked": "2026-08-06T02:59:26Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 266
-    },
-    {
-      "tag": "indirect",
-      "normalized": "indirect",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:58Z",
-      "last_checked": "2026-08-06T02:59:26Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 426
-    },
-    {
-      "tag": "includes",
-      "normalized": "includes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:56Z",
-      "last_checked": "2026-08-06T02:59:25Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 286
-    },
-    {
-      "tag": "improved",
-      "normalized": "improved",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:55Z",
-      "last_checked": "2026-08-06T02:59:24Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 267
-    },
-    {
-      "tag": "included",
-      "normalized": "included",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:56Z",
-      "last_checked": "2026-08-06T02:59:24Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 267
-    },
-    {
-      "tag": "hundreds",
-      "normalized": "hundreds",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:51Z",
-      "last_checked": "2026-08-06T02:59:23Z",
+      "last_checked": "2026-08-06T03:01:57Z",
       "response_code": "AVAILABLE",
       "latency_ms": 269
-    },
-    {
-      "tag": "impaired",
-      "normalized": "impaired",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:54Z",
-      "last_checked": "2026-08-06T02:59:23Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 277
-    },
-    {
-      "tag": "highways",
-      "normalized": "highways",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:43Z",
-      "last_checked": "2026-08-06T02:59:22Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 289
-    },
-    {
-      "tag": "hispanic",
-      "normalized": "hispanic",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:43Z",
-      "last_checked": "2026-08-06T02:59:22Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 270
-    },
-    {
-      "tag": "hardwood",
-      "normalized": "hardwood",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:38Z",
-      "last_checked": "2026-08-06T02:59:21Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 935
-    },
-    {
-      "tag": "hearings",
-      "normalized": "hearings",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:42Z",
-      "last_checked": "2026-08-06T02:59:21Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 455
-    },
-    {
-      "tag": "highland",
-      "normalized": "highland",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:43Z",
-      "last_checked": "2026-08-06T02:59:21Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 274
-    },
-    {
-      "tag": "handjobs",
-      "normalized": "handjobs",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:35Z",
-      "last_checked": "2026-08-06T02:59:19Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 327
-    },
-    {
-      "tag": "happened",
-      "normalized": "happened",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:37Z",
-      "last_checked": "2026-08-06T02:59:19Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 315
-    },
-    {
-      "tag": "handbook",
-      "normalized": "handbook",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:33Z",
-      "last_checked": "2026-08-06T02:59:18Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 256
-    },
-    {
-      "tag": "handheld",
-      "normalized": "handheld",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:34Z",
-      "last_checked": "2026-08-06T02:59:18Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 283
-    },
-    {
-      "tag": "greeting",
-      "normalized": "greeting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:31Z",
-      "last_checked": "2026-08-06T02:59:17Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 328
-    },
-    {
-      "tag": "handbags",
-      "normalized": "handbags",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:33Z",
-      "last_checked": "2026-08-06T02:59:17Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 323
-    },
-    {
-      "tag": "florists",
-      "normalized": "florists",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:15Z",
-      "last_checked": "2026-08-06T02:59:16Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 329
-    },
-    {
-      "tag": "focusing",
-      "normalized": "focusing",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:16Z",
-      "last_checked": "2026-08-06T02:59:16Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 282
-    },
-    {
-      "tag": "flooring",
-      "normalized": "flooring",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:14Z",
-      "last_checked": "2026-08-06T02:59:15Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 270
-    },
-    {
-      "tag": "fixtures",
-      "normalized": "fixtures",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:11Z",
-      "last_checked": "2026-08-06T02:59:14Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 337
-    },
-    {
-      "tag": "flashers",
-      "normalized": "flashers",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:12Z",
-      "last_checked": "2026-08-06T02:59:14Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 338
-    },
-    {
-      "tag": "fioricet",
-      "normalized": "fioricet",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:09Z",
-      "last_checked": "2026-08-06T02:59:13Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 313
-    },
-    {
-      "tag": "firewire",
-      "normalized": "firewire",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:10Z",
-      "last_checked": "2026-08-06T02:59:13Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 275
-    },
-    {
-      "tag": "commands",
-      "normalized": "commands",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:47:21Z",
-      "last_checked": "2026-08-06T02:59:12Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 258
-    },
-    {
-      "tag": "findings",
-      "normalized": "findings",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:49:08Z",
-      "last_checked": "2026-08-06T02:59:12Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 329
-    },
-    {
-      "tag": "combines",
-      "normalized": "combines",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:47:21Z",
-      "last_checked": "2026-08-06T02:59:11Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 294
-    },
-    {
-      "tag": "colleges",
-      "normalized": "colleges",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:47:17Z",
-      "last_checked": "2026-08-06T02:59:10Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 481
-    },
-    {
-      "tag": "colonial",
-      "normalized": "colonial",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:47:18Z",
-      "last_checked": "2026-08-06T02:59:10Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 379
-    },
-    {
-      "tag": "combined",
-      "normalized": "combined",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:47:20Z",
-      "last_checked": "2026-08-06T02:59:10Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 272
-    },
-    {
-      "tag": "citation",
-      "normalized": "citation",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:47:08Z",
-      "last_checked": "2026-08-06T02:59:09Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 349
-    },
-    {
-      "tag": "blowjobs",
-      "normalized": "blowjobs",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:46:26Z",
-      "last_checked": "2026-08-06T02:59:08Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 415
-    },
-    {
-      "tag": "circuits",
-      "normalized": "circuits",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:47:07Z",
-      "last_checked": "2026-08-06T02:59:08Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 301
-    },
-    {
-      "tag": "bloggers",
-      "normalized": "bloggers",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:46:25Z",
-      "last_checked": "2026-08-06T02:59:07Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 263
-    },
-    {
-      "tag": "blogging",
-      "normalized": "blogging",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:46:26Z",
-      "last_checked": "2026-08-06T02:59:07Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 275
-    },
-    {
-      "tag": "assuming",
-      "normalized": "assuming",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:46:05Z",
-      "last_checked": "2026-08-06T02:59:06Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 268
-    },
-    {
-      "tag": "assigned",
-      "normalized": "assigned",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:46:04Z",
-      "last_checked": "2026-08-06T02:59:05Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 268
-    },
-    {
-      "tag": "assisted",
-      "normalized": "assisted",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T09:46:05Z",
-      "last_checked": "2026-08-06T02:59:05Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 274
-    },
-    {
-      "tag": "minimise",
-      "normalized": "minimise",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T09:45:09Z",
-      "last_checked": "2026-08-06T02:59:04Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 270
-    },
-    {
-      "tag": "overlook",
-      "normalized": "overlook",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T09:45:13Z",
-      "last_checked": "2026-08-06T02:59:04Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 265
-    },
-    {
-      "tag": "initiate",
-      "normalized": "initiate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T09:45:06Z",
-      "last_checked": "2026-08-06T02:59:03Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 351
     },
     {
       "tag": "maximise",
@@ -1252,9 +570,691 @@
       "source": "verbs",
       "status": "available",
       "first_available": "2026-08-05T09:45:08Z",
-      "last_checked": "2026-08-06T02:59:03Z",
+      "last_checked": "2026-08-06T03:01:56Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 300
+      "latency_ms": 371
+    },
+    {
+      "tag": "journals",
+      "normalized": "journals",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:15Z",
+      "last_checked": "2026-08-06T03:01:56Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 254
+    },
+    {
+      "tag": "initiate",
+      "normalized": "initiate",
+      "category": "words",
+      "source": "verbs",
+      "status": "available",
+      "first_available": "2026-08-05T09:45:06Z",
+      "last_checked": "2026-08-06T03:01:55Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 332
+    },
+    {
+      "tag": "webcams",
+      "normalized": "webcams",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:41:51Z",
+      "last_checked": "2026-08-06T03:01:54Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 266
+    },
+    {
+      "tag": "webcast",
+      "normalized": "webcast",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:41:52Z",
+      "last_checked": "2026-08-06T03:01:54Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 263
+    },
+    {
+      "tag": "watched",
+      "normalized": "watched",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:41:48Z",
+      "last_checked": "2026-08-06T03:01:53Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 344
+    },
+    {
+      "tag": "wearing",
+      "normalized": "wearing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:41:51Z",
+      "last_checked": "2026-08-06T03:01:53Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 290
+    },
+    {
+      "tag": "wanting",
+      "normalized": "wanting",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:41:46Z",
+      "last_checked": "2026-08-06T03:01:52Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 284
+    },
+    {
+      "tag": "warming",
+      "normalized": "warming",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:41:46Z",
+      "last_checked": "2026-08-06T03:01:52Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 355
+    },
+    {
+      "tag": "pointing",
+      "normalized": "pointing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:51:56Z",
+      "last_checked": "2026-08-06T03:01:51Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 261
+    },
+    {
+      "tag": "involved",
+      "normalized": "involved",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:09Z",
+      "last_checked": "2026-08-06T03:01:50Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 274
+    },
+    {
+      "tag": "involves",
+      "normalized": "involves",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:10Z",
+      "last_checked": "2026-08-06T03:01:50Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 278
+    },
+    {
+      "tag": "intimate",
+      "normalized": "intimate",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:06Z",
+      "last_checked": "2026-08-06T03:01:49Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 281
+    },
+    {
+      "tag": "intranet",
+      "normalized": "intranet",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:07Z",
+      "last_checked": "2026-08-06T03:01:49Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 259
+    },
+    {
+      "tag": "intended",
+      "normalized": "intended",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:04Z",
+      "last_checked": "2026-08-06T03:01:48Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 323
+    },
+    {
+      "tag": "interval",
+      "normalized": "interval",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:05Z",
+      "last_checked": "2026-08-06T03:01:48Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 309
+    },
+    {
+      "tag": "injuries",
+      "normalized": "injuries",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:01Z",
+      "last_checked": "2026-08-06T03:01:47Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 718
+    },
+    {
+      "tag": "inserted",
+      "normalized": "inserted",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:03Z",
+      "last_checked": "2026-08-06T03:01:47Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 371
+    },
+    {
+      "tag": "infrared",
+      "normalized": "infrared",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:00Z",
+      "last_checked": "2026-08-06T03:01:46Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 355
+    },
+    {
+      "tag": "infected",
+      "normalized": "infected",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:59Z",
+      "last_checked": "2026-08-06T03:01:45Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 375
+    },
+    {
+      "tag": "informed",
+      "normalized": "informed",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:50:00Z",
+      "last_checked": "2026-08-06T03:01:45Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 417
+    },
+    {
+      "tag": "incurred",
+      "normalized": "incurred",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:57Z",
+      "last_checked": "2026-08-06T03:01:44Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 347
+    },
+    {
+      "tag": "indirect",
+      "normalized": "indirect",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:58Z",
+      "last_checked": "2026-08-06T03:01:44Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 367
+    },
+    {
+      "tag": "included",
+      "normalized": "included",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:56Z",
+      "last_checked": "2026-08-06T03:01:43Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 290
+    },
+    {
+      "tag": "includes",
+      "normalized": "includes",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:56Z",
+      "last_checked": "2026-08-06T03:01:43Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 389
+    },
+    {
+      "tag": "improved",
+      "normalized": "improved",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:55Z",
+      "last_checked": "2026-08-06T03:01:42Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 374
+    },
+    {
+      "tag": "hispanic",
+      "normalized": "hispanic",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:43Z",
+      "last_checked": "2026-08-06T03:01:41Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 904
+    },
+    {
+      "tag": "hundreds",
+      "normalized": "hundreds",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:51Z",
+      "last_checked": "2026-08-06T03:01:41Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 624
+    },
+    {
+      "tag": "impaired",
+      "normalized": "impaired",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:54Z",
+      "last_checked": "2026-08-06T03:01:41Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 338
+    },
+    {
+      "tag": "highways",
+      "normalized": "highways",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:43Z",
+      "last_checked": "2026-08-06T03:01:40Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 376
+    },
+    {
+      "tag": "hearings",
+      "normalized": "hearings",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:42Z",
+      "last_checked": "2026-08-06T03:01:39Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 374
+    },
+    {
+      "tag": "highland",
+      "normalized": "highland",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:43Z",
+      "last_checked": "2026-08-06T03:01:39Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 306
+    },
+    {
+      "tag": "happened",
+      "normalized": "happened",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:37Z",
+      "last_checked": "2026-08-06T03:01:38Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 397
+    },
+    {
+      "tag": "hardwood",
+      "normalized": "hardwood",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:38Z",
+      "last_checked": "2026-08-06T03:01:38Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 412
+    },
+    {
+      "tag": "handjobs",
+      "normalized": "handjobs",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:35Z",
+      "last_checked": "2026-08-06T03:01:37Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 448
+    },
+    {
+      "tag": "handbook",
+      "normalized": "handbook",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:33Z",
+      "last_checked": "2026-08-06T03:01:36Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 274
+    },
+    {
+      "tag": "handheld",
+      "normalized": "handheld",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:34Z",
+      "last_checked": "2026-08-06T03:01:36Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 281
+    },
+    {
+      "tag": "greeting",
+      "normalized": "greeting",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:31Z",
+      "last_checked": "2026-08-06T03:01:35Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 280
+    },
+    {
+      "tag": "handbags",
+      "normalized": "handbags",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:33Z",
+      "last_checked": "2026-08-06T03:01:35Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 362
+    },
+    {
+      "tag": "florists",
+      "normalized": "florists",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:15Z",
+      "last_checked": "2026-08-06T03:01:34Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 260
+    },
+    {
+      "tag": "focusing",
+      "normalized": "focusing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:16Z",
+      "last_checked": "2026-08-06T03:01:34Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 309
+    },
+    {
+      "tag": "flashers",
+      "normalized": "flashers",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:12Z",
+      "last_checked": "2026-08-06T03:01:33Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 339
+    },
+    {
+      "tag": "flooring",
+      "normalized": "flooring",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:14Z",
+      "last_checked": "2026-08-06T03:01:33Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 340
+    },
+    {
+      "tag": "firewire",
+      "normalized": "firewire",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:10Z",
+      "last_checked": "2026-08-06T03:01:32Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 480
+    },
+    {
+      "tag": "fixtures",
+      "normalized": "fixtures",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:11Z",
+      "last_checked": "2026-08-06T03:01:32Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 380
+    },
+    {
+      "tag": "fioricet",
+      "normalized": "fioricet",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:09Z",
+      "last_checked": "2026-08-06T03:01:31Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 277
+    },
+    {
+      "tag": "commands",
+      "normalized": "commands",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:47:21Z",
+      "last_checked": "2026-08-06T03:01:30Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 338
+    },
+    {
+      "tag": "findings",
+      "normalized": "findings",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:49:08Z",
+      "last_checked": "2026-08-06T03:01:30Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 285
+    },
+    {
+      "tag": "combined",
+      "normalized": "combined",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:47:20Z",
+      "last_checked": "2026-08-06T03:01:29Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 261
+    },
+    {
+      "tag": "combines",
+      "normalized": "combines",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:47:21Z",
+      "last_checked": "2026-08-06T03:01:29Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 320
+    },
+    {
+      "tag": "colonial",
+      "normalized": "colonial",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:47:18Z",
+      "last_checked": "2026-08-06T03:01:28Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 483
+    },
+    {
+      "tag": "citation",
+      "normalized": "citation",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:47:08Z",
+      "last_checked": "2026-08-06T03:01:27Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 269
+    },
+    {
+      "tag": "colleges",
+      "normalized": "colleges",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:47:17Z",
+      "last_checked": "2026-08-06T03:01:27Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 313
+    },
+    {
+      "tag": "blowjobs",
+      "normalized": "blowjobs",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:46:26Z",
+      "last_checked": "2026-08-06T03:01:26Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 376
+    },
+    {
+      "tag": "circuits",
+      "normalized": "circuits",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:47:07Z",
+      "last_checked": "2026-08-06T03:01:26Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 264
+    },
+    {
+      "tag": "bloggers",
+      "normalized": "bloggers",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:46:25Z",
+      "last_checked": "2026-08-06T03:01:25Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 337
+    },
+    {
+      "tag": "blogging",
+      "normalized": "blogging",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:46:26Z",
+      "last_checked": "2026-08-06T03:01:25Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 299
+    },
+    {
+      "tag": "assisted",
+      "normalized": "assisted",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:46:05Z",
+      "last_checked": "2026-08-06T03:01:24Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 450
+    },
+    {
+      "tag": "assuming",
+      "normalized": "assuming",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:46:05Z",
+      "last_checked": "2026-08-06T03:01:24Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 344
+    },
+    {
+      "tag": "assigned",
+      "normalized": "assigned",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:46:04Z",
+      "last_checked": "2026-08-06T03:01:23Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 335
+    },
+    {
+      "tag": "minimise",
+      "normalized": "minimise",
+      "category": "words",
+      "source": "verbs",
+      "status": "available",
+      "first_available": "2026-08-05T09:45:09Z",
+      "last_checked": "2026-08-06T03:01:22Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 301
+    },
+    {
+      "tag": "overlook",
+      "normalized": "overlook",
+      "category": "words",
+      "source": "verbs",
+      "status": "available",
+      "first_available": "2026-08-05T09:45:13Z",
+      "last_checked": "2026-08-06T03:01:22Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 262
+    },
+    {
+      "tag": "plymouth",
+      "normalized": "plymouth",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:51:54Z",
+      "last_checked": "2026-08-06T03:01:17Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 356
     },
     {
       "tag": "polished",
