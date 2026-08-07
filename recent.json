@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T16:52:23Z",
+  "updatedAt": "2026-08-07T16:56:08Z",
   "items": [
+    {
+      "tag": "pumper",
+      "normalized": "pumper",
+      "category": "words",
+      "source": "nouns",
+      "status": "taken",
+      "first_available": "2026-08-05T09:12:35Z",
+      "last_checked": "2026-08-07T16:56:08Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 4070
+    },
     {
       "tag": "parish",
       "normalized": "parish",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-07T16:43:31Z",
       "response_code": "AVAILABLE",
       "latency_ms": 546
-    },
-    {
-      "tag": "indicating",
-      "normalized": "indicating",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:13:10Z",
-      "last_checked": "2026-08-07T16:43:31Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 673
     }
   ]
 }
