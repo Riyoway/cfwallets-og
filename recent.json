@@ -1,7 +1,95 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T15:48:13Z",
+  "updatedAt": "2026-08-07T15:52:04Z",
   "items": [
+    {
+      "tag": "metres",
+      "normalized": "metres",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:20:22Z",
+      "last_checked": "2026-08-07T15:52:04Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 174
+    },
+    {
+      "tag": "argued",
+      "normalized": "argued",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:15:00Z",
+      "last_checked": "2026-08-07T15:50:04Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 403
+    },
+    {
+      "tag": "quoted",
+      "normalized": "quoted",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:22:02Z",
+      "last_checked": "2026-08-07T15:49:48Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 420
+    },
+    {
+      "tag": "stands",
+      "normalized": "stands",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:23:25Z",
+      "last_checked": "2026-08-07T15:48:43Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 202
+    },
+    {
+      "tag": "viagra",
+      "normalized": "viagra",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T15:48:19Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 26
+    },
+    {
+      "tag": "tranny",
+      "normalized": "tranny",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T15:48:18Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 26
+    },
+    {
+      "tag": "vagina",
+      "normalized": "vagina",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T15:48:18Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 26
+    },
+    {
+      "tag": "tested",
+      "normalized": "tested",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T15:48:17Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 27
+    },
     {
       "tag": "rapids",
       "normalized": "rapids",
@@ -3213,94 +3301,6 @@
       "last_checked": "2026-08-07T15:43:31Z",
       "response_code": "AVAILABLE",
       "latency_ms": 237
-    },
-    {
-      "tag": "anticipated",
-      "normalized": "anticipated",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:36Z",
-      "last_checked": "2026-08-07T15:43:30Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 240
-    },
-    {
-      "tag": "separately",
-      "normalized": "separately",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:00Z",
-      "last_checked": "2026-08-07T15:43:30Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 241
-    },
-    {
-      "tag": "consolidate",
-      "normalized": "consolidate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:24Z",
-      "last_checked": "2026-08-07T15:43:29Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 247
-    },
-    {
-      "tag": "affiliation",
-      "normalized": "affiliation",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:33Z",
-      "last_checked": "2026-08-07T15:43:29Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 239
-    },
-    {
-      "tag": "accommodate",
-      "normalized": "accommodate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:21Z",
-      "last_checked": "2026-08-07T15:43:28Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 236
-    },
-    {
-      "tag": "advertisers",
-      "normalized": "advertisers",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:33Z",
-      "last_checked": "2026-08-07T15:43:28Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 248
-    },
-    {
-      "tag": "indicating",
-      "normalized": "indicating",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:13:10Z",
-      "last_checked": "2026-08-07T15:43:27Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 234
-    },
-    {
-      "tag": "thumbzilla",
-      "normalized": "thumbzilla",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:26Z",
-      "last_checked": "2026-08-07T15:43:26Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 323
     }
   ]
 }
