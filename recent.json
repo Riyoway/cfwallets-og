@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T16:49:29Z",
+  "updatedAt": "2026-08-07T16:52:23Z",
   "items": [
+    {
+      "tag": "parish",
+      "normalized": "parish",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:21:21Z",
+      "last_checked": "2026-08-07T16:52:23Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 705
+    },
     {
       "tag": "batter",
       "normalized": "batter",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-07T16:43:31Z",
       "response_code": "AVAILABLE",
       "latency_ms": 673
-    },
-    {
-      "tag": "thumbzilla",
-      "normalized": "thumbzilla",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:26Z",
-      "last_checked": "2026-08-07T16:43:30Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 594
     }
   ]
 }
