@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T16:59:49Z",
+  "updatedAt": "2026-08-07T17:02:03Z",
   "items": [
+    {
+      "tag": "briefs",
+      "normalized": "briefs",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:15:41Z",
+      "last_checked": "2026-08-07T17:02:03Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 637
+    },
     {
       "tag": "courts",
       "normalized": "courts",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-07T16:43:33Z",
       "response_code": "AVAILABLE",
       "latency_ms": 570
-    },
-    {
-      "tag": "advertisers",
-      "normalized": "advertisers",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:33Z",
-      "last_checked": "2026-08-07T16:43:32Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 387
     }
   ]
 }
