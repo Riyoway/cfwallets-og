@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T20:06:36Z",
+  "updatedAt": "2026-08-07T20:09:30Z",
   "items": [
+    {
+      "tag": "speaks",
+      "normalized": "speaks",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:23:14Z",
+      "last_checked": "2026-08-07T20:09:30Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 165
+    },
+    {
+      "tag": "posing",
+      "normalized": "posing",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:21:44Z",
+      "last_checked": "2026-08-07T20:08:18Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 258
+    },
     {
       "tag": "lanes",
       "normalized": "lanes",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-07T19:44:24Z",
       "response_code": "AVAILABLE",
       "latency_ms": 223
-    },
-    {
-      "tag": "stationery",
-      "normalized": "stationery",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:06Z",
-      "last_checked": "2026-08-07T19:44:23Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 266
-    },
-    {
-      "tag": "distinguish",
-      "normalized": "distinguish",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:25Z",
-      "last_checked": "2026-08-07T19:44:15Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
     }
   ]
 }
