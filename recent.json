@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T14:06:28Z",
+  "updatedAt": "2026-08-07T14:09:29Z",
   "items": [
+    {
+      "tag": "speaks",
+      "normalized": "speaks",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:23:14Z",
+      "last_checked": "2026-08-07T14:09:29Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 167
+    },
+    {
+      "tag": "posing",
+      "normalized": "posing",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:21:44Z",
+      "last_checked": "2026-08-07T14:08:17Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 167
+    },
     {
       "tag": "lanes",
       "normalized": "lanes",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-07T13:43:27Z",
       "response_code": "AVAILABLE",
       "latency_ms": 232
-    },
-    {
-      "tag": "assignments",
-      "normalized": "assignments",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:40Z",
-      "last_checked": "2026-08-07T13:43:27Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 244
-    },
-    {
-      "tag": "chimichanga",
-      "normalized": "chimichanga",
-      "category": "food",
-      "source": "food",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:54Z",
-      "last_checked": "2026-08-07T13:43:26Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 220
     }
   ]
 }
