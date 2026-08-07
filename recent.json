@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T16:56:08Z",
+  "updatedAt": "2026-08-07T16:59:49Z",
   "items": [
+    {
+      "tag": "courts",
+      "normalized": "courts",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:16:42Z",
+      "last_checked": "2026-08-07T16:59:49Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 665
+    },
     {
       "tag": "pumper",
       "normalized": "pumper",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-07T16:43:32Z",
       "response_code": "AVAILABLE",
       "latency_ms": 387
-    },
-    {
-      "tag": "accommodate",
-      "normalized": "accommodate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:21Z",
-      "last_checked": "2026-08-07T16:43:31Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 546
     }
   ]
 }
