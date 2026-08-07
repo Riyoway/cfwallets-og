@@ -1,7 +1,84 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T23:11:48Z",
+  "updatedAt": "2026-08-07T23:22:35Z",
   "items": [
+    {
+      "tag": "newest",
+      "normalized": "newest",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:20:52Z",
+      "last_checked": "2026-08-07T23:22:35Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 164
+    },
+    {
+      "tag": "dildos",
+      "normalized": "dildos",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T23:13:06Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 20
+    },
+    {
+      "tag": "system",
+      "normalized": "system",
+      "category": "words",
+      "source": "nouns",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T23:13:05Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 60
+    },
+    {
+      "tag": "stream",
+      "normalized": "stream",
+      "category": "music",
+      "source": "production",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T23:12:57Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 31
+    },
+    {
+      "tag": "whore",
+      "normalized": "whore",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T23:12:57Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 98
+    },
+    {
+      "tag": "tests",
+      "normalized": "tests",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T23:11:53Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 21
+    },
+    {
+      "tag": "sluts",
+      "normalized": "sluts",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-07T23:11:52Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 21
+    },
     {
       "tag": "roots",
       "normalized": "roots",
@@ -3224,83 +3301,6 @@
       "last_checked": "2026-08-07T22:44:58Z",
       "response_code": "AVAILABLE",
       "latency_ms": 223
-    },
-    {
-      "tag": "consolidate",
-      "normalized": "consolidate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:24Z",
-      "last_checked": "2026-08-07T22:44:57Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 222
-    },
-    {
-      "tag": "accommodate",
-      "normalized": "accommodate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:21Z",
-      "last_checked": "2026-08-07T22:44:56Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 217
-    },
-    {
-      "tag": "separately",
-      "normalized": "separately",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:00Z",
-      "last_checked": "2026-08-07T22:44:56Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 227
-    },
-    {
-      "tag": "trackbacks",
-      "normalized": "trackbacks",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:27Z",
-      "last_checked": "2026-08-07T22:44:55Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 253
-    },
-    {
-      "tag": "thumbnails",
-      "normalized": "thumbnails",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:26Z",
-      "last_checked": "2026-08-07T22:44:47Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 232
-    },
-    {
-      "tag": "thumbzilla",
-      "normalized": "thumbzilla",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:26Z",
-      "last_checked": "2026-08-07T22:44:47Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 224
-    },
-    {
-      "tag": "indicating",
-      "normalized": "indicating",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:13:10Z",
-      "last_checked": "2026-08-07T22:44:46Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
     }
   ]
 }
