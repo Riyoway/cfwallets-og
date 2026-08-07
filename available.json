@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T23:24:36Z",
+  "updatedAt": "2026-08-07T23:26:50Z",
   "tags": [
     {
       "tag": "foie",
@@ -415,10 +415,10 @@
       "source": "verbs",
       "rank": 2268,
       "first_available": "2026-08-05T09:13:29Z",
-      "last_checked": "2026-08-07T22:26:44Z",
+      "last_checked": "2026-08-07T23:26:50Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 1204,
-      "check_count": 907,
+      "latency_ms": 254,
+      "check_count": 908,
       "score": 71,
       "length": 6
     },
