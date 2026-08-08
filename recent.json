@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T03:57:49Z",
+  "updatedAt": "2026-08-08T04:01:55Z",
   "items": [
+    {
+      "tag": "brings",
+      "normalized": "brings",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:15:41Z",
+      "last_checked": "2026-08-08T04:01:55Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 274
+    },
+    {
+      "tag": "camps",
+      "normalized": "camps",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:00:21Z",
+      "last_checked": "2026-08-08T03:58:34Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 208
+    },
+    {
+      "tag": "namely",
+      "normalized": "namely",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:20:43Z",
+      "last_checked": "2026-08-08T03:57:54Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 132
+    },
     {
       "tag": "facing",
       "normalized": "facing",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-08T03:45:23Z",
       "response_code": "AVAILABLE",
       "latency_ms": 217
-    },
-    {
-      "tag": "consolidate",
-      "normalized": "consolidate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:24Z",
-      "last_checked": "2026-08-08T03:45:22Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
-    },
-    {
-      "tag": "advertisers",
-      "normalized": "advertisers",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:33Z",
-      "last_checked": "2026-08-08T03:45:22Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 216
-    },
-    {
-      "tag": "accommodate",
-      "normalized": "accommodate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:21Z",
-      "last_checked": "2026-08-08T03:45:21Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 223
     }
   ]
 }
