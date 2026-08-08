@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T02:09:30Z",
+  "updatedAt": "2026-08-08T02:11:51Z",
   "items": [
+    {
+      "tag": "roots",
+      "normalized": "roots",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T02:11:51Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 70
+    },
     {
       "tag": "speaks",
       "normalized": "speaks",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-08T01:45:13Z",
       "response_code": "AVAILABLE",
       "latency_ms": 228
-    },
-    {
-      "tag": "affiliation",
-      "normalized": "affiliation",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:33Z",
-      "last_checked": "2026-08-08T01:45:13Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 216
     }
   ]
 }
