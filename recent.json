@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T04:56:13Z",
+  "updatedAt": "2026-08-08T05:00:02Z",
   "items": [
+    {
+      "tag": "courts",
+      "normalized": "courts",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:16:42Z",
+      "last_checked": "2026-08-08T05:00:02Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 227
+    },
     {
       "tag": "pumper",
       "normalized": "pumper",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-08T04:45:04Z",
       "response_code": "AVAILABLE",
       "latency_ms": 229
-    },
-    {
-      "tag": "respective",
-      "normalized": "respective",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:14:53Z",
-      "last_checked": "2026-08-08T04:45:04Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 226
     }
   ]
 }
