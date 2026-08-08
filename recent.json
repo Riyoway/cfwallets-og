@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T14:15:10Z",
+  "updatedAt": "2026-08-08T14:20:43Z",
   "items": [
+    {
+      "tag": "initiate",
+      "normalized": "initiate",
+      "category": "words",
+      "source": "verbs",
+      "status": "taken",
+      "first_available": "2026-08-05T09:45:06Z",
+      "last_checked": "2026-08-08T14:20:43Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 434
+    },
+    {
+      "tag": "selected",
+      "normalized": "selected",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:53:17Z",
+      "last_checked": "2026-08-08T14:20:43Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 137
+    },
     {
       "tag": "dildos",
       "normalized": "dildos",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-08T14:03:43Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 127
-    },
-    {
-      "tag": "berkeley",
-      "normalized": "berkeley",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T14:03:43Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 139
-    },
-    {
-      "tag": "athletic",
-      "normalized": "athletic",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T14:03:42Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 128
     }
   ]
 }
