@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T02:06:38Z",
+  "updatedAt": "2026-08-08T02:09:30Z",
   "items": [
+    {
+      "tag": "speaks",
+      "normalized": "speaks",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:23:14Z",
+      "last_checked": "2026-08-08T02:09:30Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 163
+    },
+    {
+      "tag": "posing",
+      "normalized": "posing",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:21:44Z",
+      "last_checked": "2026-08-08T02:08:18Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 160
+    },
     {
       "tag": "lanes",
       "normalized": "lanes",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-08T01:45:13Z",
       "response_code": "AVAILABLE",
       "latency_ms": 216
-    },
-    {
-      "tag": "accommodate",
-      "normalized": "accommodate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:21Z",
-      "last_checked": "2026-08-08T01:45:12Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 216
-    },
-    {
-      "tag": "consolidate",
-      "normalized": "consolidate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:24Z",
-      "last_checked": "2026-08-08T01:45:12Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 223
     }
   ]
 }
