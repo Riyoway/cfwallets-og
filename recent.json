@@ -1,7 +1,95 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T08:20:37Z",
+  "updatedAt": "2026-08-08T08:24:22Z",
   "items": [
+    {
+      "tag": "dicke",
+      "normalized": "dicke",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T08:24:22Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 20
+    },
+    {
+      "tag": "cocks",
+      "normalized": "cocks",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T08:24:21Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 57
+    },
+    {
+      "tag": "involved",
+      "normalized": "involved",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:50:09Z",
+      "last_checked": "2026-08-08T08:20:45Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 2768
+    },
+    {
+      "tag": "moderate",
+      "normalized": "moderate",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:50:59Z",
+      "last_checked": "2026-08-08T08:20:45Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 2217
+    },
+    {
+      "tag": "speaking",
+      "normalized": "speaking",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": "2026-08-05T09:53:35Z",
+      "last_checked": "2026-08-08T08:20:45Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 31
+    },
+    {
+      "tag": "blowjobs",
+      "normalized": "blowjobs",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:46:26Z",
+      "last_checked": "2026-08-08T08:20:44Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 1790
+    },
+    {
+      "tag": "possibly",
+      "normalized": "possibly",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": "2026-08-05T09:51:59Z",
+      "last_checked": "2026-08-08T08:20:44Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 31
+    },
+    {
+      "tag": "soldiers",
+      "normalized": "soldiers",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": "2026-08-05T09:53:31Z",
+      "last_checked": "2026-08-08T08:20:44Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 28
+    },
     {
       "tag": "initiate",
       "normalized": "initiate",
@@ -3213,94 +3301,6 @@
       "last_checked": "2026-08-08T08:03:38Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 740
-    },
-    {
-      "tag": "broadway",
-      "normalized": "broadway",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:38Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 222
-    },
-    {
-      "tag": "bradford",
-      "normalized": "bradford",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:37Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 1185
-    },
-    {
-      "tag": "breaking",
-      "normalized": "breaking",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:37Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 652
-    },
-    {
-      "tag": "brighton",
-      "normalized": "brighton",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:37Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 556
-    },
-    {
-      "tag": "bracelet",
-      "normalized": "bracelet",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:36Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 803
-    },
-    {
-      "tag": "boutique",
-      "normalized": "boutique",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:35Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 627
-    },
-    {
-      "tag": "bleeding",
-      "normalized": "bleeding",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:34Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 818
-    },
-    {
-      "tag": "bookings",
-      "normalized": "bookings",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-08T08:03:34Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 264
     }
   ]
 }
