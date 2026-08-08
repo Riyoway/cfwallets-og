@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T08:52:13Z",
+  "updatedAt": "2026-08-08T09:12:27Z",
   "items": [
+    {
+      "tag": "roots",
+      "normalized": "roots",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T09:12:27Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 263
+    },
     {
       "tag": "viagra",
       "normalized": "viagra",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-08T08:46:21Z",
       "response_code": "AVAILABLE",
       "latency_ms": 2593
-    },
-    {
-      "tag": "estimation",
-      "normalized": "estimation",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:12:34Z",
-      "last_checked": "2026-08-08T08:46:20Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 3338
     }
   ]
 }
