@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T16:15:17Z",
+  "updatedAt": "2026-08-08T16:25:07Z",
   "items": [
+    {
+      "tag": "dicke",
+      "normalized": "dicke",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T16:25:07Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 22
+    },
+    {
+      "tag": "cocks",
+      "normalized": "cocks",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T16:25:06Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 76
+    },
     {
       "tag": "system",
       "normalized": "system",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-08T15:47:12Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 121
-    },
-    {
-      "tag": "trademarks",
-      "normalized": "trademarks",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:27Z",
-      "last_checked": "2026-08-08T15:47:12Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 325
-    },
-    {
-      "tag": "consolidate",
-      "normalized": "consolidate",
-      "category": "words",
-      "source": "verbs",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:24Z",
-      "last_checked": "2026-08-08T15:47:11Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 242
     }
   ]
 }
