@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T09:54:41Z",
+  "updatedAt": "2026-08-08T09:57:50Z",
   "items": [
+    {
+      "tag": "facing",
+      "normalized": "facing",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:40Z",
+      "last_checked": "2026-08-08T09:57:50Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 186
+    },
     {
       "tag": "themes",
       "normalized": "themes",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-08T09:46:36Z",
       "response_code": "AVAILABLE",
       "latency_ms": 263
-    },
-    {
-      "tag": "subsidiary",
-      "normalized": "subsidiary",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:14Z",
-      "last_checked": "2026-08-08T09:46:35Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 313
     }
   ]
 }
