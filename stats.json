@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T07:36:23Z",
+  "updatedAt": "2026-08-08T07:38:27Z",
   "total": 10315,
   "pending": 0,
-  "available": 789,
+  "available": 796,
   "taken": 8406,
-  "error": 1120,
+  "error": 1113,
   "categories": {
     "food": 10,
-    "common": 703,
+    "common": 710,
     "words": 41,
     "design": 6,
     "music": 8,
