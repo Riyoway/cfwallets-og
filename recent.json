@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T10:01:56Z",
+  "updatedAt": "2026-08-08T10:12:33Z",
   "items": [
+    {
+      "tag": "roots",
+      "normalized": "roots",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T10:12:33Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 313
+    },
     {
       "tag": "brings",
       "normalized": "brings",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-08T09:46:46Z",
       "response_code": "AVAILABLE",
       "latency_ms": 379
-    },
-    {
-      "tag": "separately",
-      "normalized": "separately",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:00Z",
-      "last_checked": "2026-08-08T09:46:37Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 259
     }
   ]
 }
