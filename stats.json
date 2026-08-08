@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T07:53:08Z",
+  "updatedAt": "2026-08-08T07:55:28Z",
   "total": 10315,
   "pending": 0,
   "available": 898,
-  "taken": 8516,
-  "error": 901,
+  "taken": 8590,
+  "error": 827,
   "categories": {
     "food": 10,
     "common": 804,
