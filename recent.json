@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T15:57:56Z",
+  "updatedAt": "2026-08-08T16:02:02Z",
   "items": [
+    {
+      "tag": "brings",
+      "normalized": "brings",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:15:41Z",
+      "last_checked": "2026-08-08T16:02:02Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 370
+    },
+    {
+      "tag": "camps",
+      "normalized": "camps",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:00:21Z",
+      "last_checked": "2026-08-08T15:58:41Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 200
+    },
     {
       "tag": "facing",
       "normalized": "facing",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-08T15:47:07Z",
       "response_code": "AVAILABLE",
       "latency_ms": 270
-    },
-    {
-      "tag": "suggesting",
-      "normalized": "suggesting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:15Z",
-      "last_checked": "2026-08-08T15:47:07Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 242
-    },
-    {
-      "tag": "separately",
-      "normalized": "separately",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:00Z",
-      "last_checked": "2026-08-08T15:47:06Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 259
     }
   ]
 }
