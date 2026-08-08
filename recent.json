@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T17:15:24Z",
+  "updatedAt": "2026-08-08T17:22:49Z",
   "items": [
+    {
+      "tag": "newest",
+      "normalized": "newest",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:20:52Z",
+      "last_checked": "2026-08-08T17:22:49Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 184
+    },
     {
       "tag": "system",
       "normalized": "system",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-08T16:47:12Z",
       "response_code": "AVAILABLE",
       "latency_ms": 236
-    },
-    {
-      "tag": "separately",
-      "normalized": "separately",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:00Z",
-      "last_checked": "2026-08-08T16:47:11Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 308
     }
   ]
 }
