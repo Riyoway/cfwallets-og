@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T17:02:16Z",
+  "updatedAt": "2026-08-08T17:13:01Z",
   "items": [
+    {
+      "tag": "roots",
+      "normalized": "roots",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T17:13:01Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 76
+    },
+    {
+      "tag": "chairs",
+      "normalized": "chairs",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:16:10Z",
+      "last_checked": "2026-08-08T17:03:25Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 165
+    },
     {
       "tag": "briefs",
       "normalized": "briefs",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-08T16:46:53Z",
       "response_code": "AVAILABLE",
       "latency_ms": 233
-    },
-    {
-      "tag": "explicitly",
-      "normalized": "explicitly",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:12:42Z",
-      "last_checked": "2026-08-08T16:46:52Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 246
-    },
-    {
-      "tag": "reasonably",
-      "normalized": "reasonably",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:14:36Z",
-      "last_checked": "2026-08-08T16:46:52Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
     }
   ]
 }
