@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T15:15:10Z",
+  "updatedAt": "2026-08-08T15:20:43Z",
   "items": [
+    {
+      "tag": "seasonal",
+      "normalized": "seasonal",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:53:15Z",
+      "last_checked": "2026-08-08T15:20:43Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 194
+    },
+    {
+      "tag": "dildos",
+      "normalized": "dildos",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-08T15:15:14Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 27
+    },
     {
       "tag": "system",
       "normalized": "system",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-08T14:47:03Z",
       "response_code": "AVAILABLE",
       "latency_ms": 297
-    },
-    {
-      "tag": "submitting",
-      "normalized": "submitting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:11Z",
-      "last_checked": "2026-08-08T14:46:55Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 275
-    },
-    {
-      "tag": "indicating",
-      "normalized": "indicating",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:13:10Z",
-      "last_checked": "2026-08-08T14:46:54Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 266
     }
   ]
 }
