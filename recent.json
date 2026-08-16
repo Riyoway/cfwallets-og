@@ -1,7 +1,51 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T09:39:45Z",
+  "updatedAt": "2026-08-16T10:28:34Z",
   "items": [
+    {
+      "tag": "durham",
+      "normalized": "durham",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:17Z",
+      "last_checked": "2026-08-16T10:28:34Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 183
+    },
+    {
+      "tag": "duties",
+      "normalized": "duties",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:18Z",
+      "last_checked": "2026-08-16T10:28:34Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 123
+    },
+    {
+      "tag": "horny",
+      "normalized": "horny",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-16T09:39:50Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 25
+    },
+    {
+      "tag": "rapid",
+      "normalized": "rapid",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-16T09:39:50Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 43
+    },
     {
       "tag": "email",
       "normalized": "email",
@@ -3257,50 +3301,6 @@
       "last_checked": "2026-08-16T09:36:19Z",
       "response_code": "AVAILABLE",
       "latency_ms": 240
-    },
-    {
-      "tag": "disciplines",
-      "normalized": "disciplines",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:44Z",
-      "last_checked": "2026-08-16T09:36:19Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 237
-    },
-    {
-      "tag": "directories",
-      "normalized": "directories",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:44Z",
-      "last_checked": "2026-08-16T09:36:18Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 230
-    },
-    {
-      "tag": "designation",
-      "normalized": "designation",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:39Z",
-      "last_checked": "2026-08-16T09:36:17Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 231
-    },
-    {
-      "tag": "widescreen",
-      "normalized": "widescreen",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:49Z",
-      "last_checked": "2026-08-16T09:36:17Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
     }
   ]
 }
