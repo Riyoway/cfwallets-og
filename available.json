@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T20:40:41Z",
+  "updatedAt": "2026-08-16T21:30:33Z",
   "tags": [
     {
       "tag": "foie",
@@ -345,10 +345,10 @@
       "source": "common",
       "rank": 3659,
       "first_available": "2026-08-05T09:15:46Z",
-      "last_checked": "2026-08-16T20:30:26Z",
+      "last_checked": "2026-08-16T21:30:31Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 933,
-      "check_count": 662,
+      "latency_ms": 523,
+      "check_count": 663,
       "score": 72,
       "length": 6
     },
@@ -359,10 +359,10 @@
       "source": "common",
       "rank": 4468,
       "first_available": "2026-08-05T09:16:48Z",
-      "last_checked": "2026-08-16T20:30:26Z",
+      "last_checked": "2026-08-16T21:30:32Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 332,
-      "check_count": 603,
+      "latency_ms": 221,
+      "check_count": 604,
       "score": 69,
       "length": 6
     },
@@ -373,10 +373,10 @@
       "source": "common",
       "rank": 4521,
       "first_available": "2026-08-05T09:16:53Z",
-      "last_checked": "2026-08-16T20:30:26Z",
+      "last_checked": "2026-08-16T21:30:32Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 250,
-      "check_count": 801,
+      "latency_ms": 226,
+      "check_count": 802,
       "score": 68,
       "length": 6
     },
@@ -387,10 +387,10 @@
       "source": "common",
       "rank": 4846,
       "first_available": "2026-08-05T09:17:12Z",
-      "last_checked": "2026-08-16T20:30:31Z",
+      "last_checked": "2026-08-16T21:30:33Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 257,
-      "check_count": 745,
+      "latency_ms": 229,
+      "check_count": 746,
       "score": 67,
       "length": 6
     },
