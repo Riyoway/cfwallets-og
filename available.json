@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T14:48:44Z",
+  "updatedAt": "2026-08-18T15:36:00Z",
   "tags": [
     {
       "tag": "foie",
@@ -345,10 +345,10 @@
       "source": "common",
       "rank": 3659,
       "first_available": "2026-08-05T09:15:46Z",
-      "last_checked": "2026-08-18T14:36:00Z",
+      "last_checked": "2026-08-18T15:36:00Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 305,
-      "check_count": 704,
+      "latency_ms": 388,
+      "check_count": 705,
       "score": 72,
       "length": 6
     },
