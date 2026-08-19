@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T23:51:50Z",
+  "updatedAt": "2026-08-19T23:54:02Z",
   "tags": [
     {
       "tag": "foie",
@@ -10705,10 +10705,10 @@
       "source": "common",
       "rank": 9753,
       "first_available": "2026-08-05T10:26:38Z",
-      "last_checked": "2026-08-19T22:51:27Z",
+      "last_checked": "2026-08-19T23:51:55Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 230,
-      "check_count": 126,
+      "latency_ms": 214,
+      "check_count": 127,
       "score": 10,
       "length": 15
     },
@@ -10719,10 +10719,10 @@
       "source": "common",
       "rank": 3894,
       "first_available": "2026-08-05T10:26:39Z",
-      "last_checked": "2026-08-19T22:51:27Z",
+      "last_checked": "2026-08-19T23:51:55Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 217,
-      "check_count": 126,
+      "latency_ms": 218,
+      "check_count": 127,
       "score": 15,
       "length": 16
     },
@@ -10733,10 +10733,10 @@
       "source": "common",
       "rank": 9244,
       "first_available": "2026-08-05T10:26:43Z",
-      "last_checked": "2026-08-19T22:51:28Z",
+      "last_checked": "2026-08-19T23:51:56Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 217,
-      "check_count": 126,
+      "latency_ms": 218,
+      "check_count": 127,
       "score": 10,
       "length": 16
     }
