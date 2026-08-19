@@ -1,7 +1,117 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T15:53:00Z",
+  "updatedAt": "2026-08-19T16:29:28Z",
   "items": [
+    {
+      "tag": "duties",
+      "normalized": "duties",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:18Z",
+      "last_checked": "2026-08-19T16:29:28Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 136
+    },
+    {
+      "tag": "durham",
+      "normalized": "durham",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:17Z",
+      "last_checked": "2026-08-19T16:29:27Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 186
+    },
+    {
+      "tag": "dildos",
+      "normalized": "dildos",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:25Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 22
+    },
+    {
+      "tag": "radar",
+      "normalized": "radar",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:24Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 22
+    },
+    {
+      "tag": "rapid",
+      "normalized": "rapid",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:24Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 22
+    },
+    {
+      "tag": "pussy",
+      "normalized": "pussy",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:23Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 21
+    },
+    {
+      "tag": "penis",
+      "normalized": "penis",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:22Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 23
+    },
+    {
+      "tag": "porno",
+      "normalized": "porno",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:22Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 23
+    },
+    {
+      "tag": "helps",
+      "normalized": "helps",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:21Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 64
+    },
+    {
+      "tag": "horny",
+      "normalized": "horny",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T15:53:21Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 21
+    },
     {
       "tag": "viagra",
       "normalized": "viagra",
@@ -3191,116 +3301,6 @@
       "last_checked": "2026-08-19T15:47:04Z",
       "response_code": "AVAILABLE",
       "latency_ms": 226
-    },
-    {
-      "tag": "veterinary",
-      "normalized": "veterinary",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:15:39Z",
-      "last_checked": "2026-08-19T15:47:04Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 219
-    },
-    {
-      "tag": "controllers",
-      "normalized": "controllers",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:26Z",
-      "last_checked": "2026-08-19T15:47:03Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 231
-    },
-    {
-      "tag": "continually",
-      "normalized": "continually",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:23Z",
-      "last_checked": "2026-08-19T15:47:02Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 217
-    },
-    {
-      "tag": "contracting",
-      "normalized": "contracting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:24Z",
-      "last_checked": "2026-08-19T15:47:02Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-19T15:47:01Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 219
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-19T15:47:01Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 233
-    },
-    {
-      "tag": "configuring",
-      "normalized": "configuring",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:10Z",
-      "last_checked": "2026-08-19T15:47:00Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 216
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-19T15:47:00Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 220
-    },
-    {
-      "tag": "comparisons",
-      "normalized": "comparisons",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:04Z",
-      "last_checked": "2026-08-19T15:46:59Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 219
-    },
-    {
-      "tag": "conclusions",
-      "normalized": "conclusions",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:07Z",
-      "last_checked": "2026-08-19T15:46:59Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 215
     }
   ]
 }
