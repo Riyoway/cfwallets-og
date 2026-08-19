@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T19:54:12Z",
+  "updatedAt": "2026-08-19T20:37:40Z",
   "items": [
+    {
+      "tag": "baths",
+      "normalized": "baths",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T08:59:44Z",
+      "last_checked": "2026-08-19T20:37:40Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 177
+    },
+    {
+      "tag": "dildos",
+      "normalized": "dildos",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-19T19:54:17Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 21
+    },
     {
       "tag": "radar",
       "normalized": "radar",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-19T19:47:47Z",
       "response_code": "AVAILABLE",
       "latency_ms": 216
-    },
-    {
-      "tag": "contracting",
-      "normalized": "contracting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:24Z",
-      "last_checked": "2026-08-19T19:47:46Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 217
-    },
-    {
-      "tag": "continually",
-      "normalized": "continually",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:23Z",
-      "last_checked": "2026-08-19T19:47:45Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 218
     }
   ]
 }
