@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T12:25:42Z",
+  "updatedAt": "2026-08-19T12:33:23Z",
   "items": [
+    {
+      "tag": "voyeur",
+      "normalized": "voyeur",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:24:59Z",
+      "last_checked": "2026-08-19T12:33:23Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 570
+    },
     {
       "tag": "garmin",
       "normalized": "garmin",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-19T12:22:51Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 172
-    },
-    {
-      "tag": "grows",
-      "normalized": "grows",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:48Z",
-      "last_checked": "2026-08-19T12:22:50Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 174
     }
   ]
 }
