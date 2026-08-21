@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T09:59:09Z",
+  "updatedAt": "2026-08-21T10:29:48Z",
   "items": [
+    {
+      "tag": "duties",
+      "normalized": "duties",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:18Z",
+      "last_checked": "2026-08-21T10:29:48Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 124
+    },
+    {
+      "tag": "durham",
+      "normalized": "durham",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:17Z",
+      "last_checked": "2026-08-21T10:29:47Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 505
+    },
     {
       "tag": "dildos",
       "normalized": "dildos",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-21T09:52:04Z",
       "response_code": "AVAILABLE",
       "latency_ms": 221
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-21T09:52:03Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 223
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-21T09:52:03Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 217
     }
   ]
 }
