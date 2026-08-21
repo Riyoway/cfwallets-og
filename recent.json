@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T08:59:03Z",
+  "updatedAt": "2026-08-21T09:42:29Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-21T09:42:29Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 708
+    },
     {
       "tag": "dildos",
       "normalized": "dildos",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-21T08:51:57Z",
       "response_code": "AVAILABLE",
       "latency_ms": 225
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-21T08:51:56Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 223
     }
   ]
 }
