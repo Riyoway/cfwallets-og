@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T18:33:43Z",
+  "updatedAt": "2026-08-21T18:43:51Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-21T18:43:51Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 606
+    },
+    {
+      "tag": "dayton",
+      "normalized": "dayton",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:16:53Z",
+      "last_checked": "2026-08-21T18:43:51Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 267
+    },
+    {
+      "tag": "curves",
+      "normalized": "curves",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:16:48Z",
+      "last_checked": "2026-08-21T18:35:25Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 182
+    },
     {
       "tag": "voyeur",
       "normalized": "voyeur",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-21T18:28:13Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 127
-    },
-    {
-      "tag": "holes",
-      "normalized": "holes",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:05Z",
-      "last_checked": "2026-08-21T18:28:12Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 123
-    },
-    {
-      "tag": "hoped",
-      "normalized": "hoped",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:10Z",
-      "last_checked": "2026-08-21T18:28:12Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 124
-    },
-    {
-      "tag": "hints",
-      "normalized": "hints",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-21T18:28:11Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 130
     }
   ]
 }
