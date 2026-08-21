@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T01:58:17Z",
+  "updatedAt": "2026-08-21T02:38:00Z",
   "items": [
+    {
+      "tag": "baths",
+      "normalized": "baths",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T08:59:44Z",
+      "last_checked": "2026-08-21T02:38:00Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 179
+    },
     {
       "tag": "dildos",
       "normalized": "dildos",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-21T01:51:11Z",
       "response_code": "AVAILABLE",
       "latency_ms": 225
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-21T01:51:10Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 227
     }
   ]
 }
