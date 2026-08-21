@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T20:38:15Z",
+  "updatedAt": "2026-08-21T20:43:56Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-21T20:43:56Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 281
+    },
+    {
+      "tag": "dayton",
+      "normalized": "dayton",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:16:53Z",
+      "last_checked": "2026-08-21T20:43:56Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 240
+    },
     {
       "tag": "baths",
       "normalized": "baths",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-21T19:53:11Z",
       "response_code": "AVAILABLE",
       "latency_ms": 233
-    },
-    {
-      "tag": "contracting",
-      "normalized": "contracting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:24Z",
-      "last_checked": "2026-08-21T19:53:11Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 219
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-21T19:53:10Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 236
     }
   ]
 }
