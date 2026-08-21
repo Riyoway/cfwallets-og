@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T22:00:22Z",
+  "updatedAt": "2026-08-21T22:29:48Z",
   "items": [
+    {
+      "tag": "durham",
+      "normalized": "durham",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:17Z",
+      "last_checked": "2026-08-21T22:29:48Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 171
+    },
     {
       "tag": "viagra",
       "normalized": "viagra",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-21T21:53:15Z",
       "response_code": "AVAILABLE",
       "latency_ms": 220
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-21T21:53:15Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 226
     }
   ]
 }
