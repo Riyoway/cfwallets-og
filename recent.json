@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T08:38:18Z",
+  "updatedAt": "2026-08-22T08:44:55Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-22T08:44:55Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 414
+    },
     {
       "tag": "baths",
       "normalized": "baths",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-22T07:54:37Z",
       "response_code": "AVAILABLE",
       "latency_ms": 222
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-22T07:54:36Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
     }
   ]
 }
