@@ -1,7 +1,117 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T12:34:16Z",
+  "updatedAt": "2026-08-23T12:46:18Z",
   "items": [
+    {
+      "tag": "recreational",
+      "normalized": "recreational",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:23:08Z",
+      "last_checked": "2026-08-23T12:46:18Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 481
+    },
+    {
+      "tag": "curves",
+      "normalized": "curves",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:16:48Z",
+      "last_checked": "2026-08-23T12:36:01Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 167
+    },
+    {
+      "tag": "voyeur",
+      "normalized": "voyeur",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:24:59Z",
+      "last_checked": "2026-08-23T12:34:25Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 124
+    },
+    {
+      "tag": "garmin",
+      "normalized": "garmin",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-23T12:34:24Z",
+      "response_code": "RESERVED_TAG",
+      "latency_ms": 229
+    },
+    {
+      "tag": "riders",
+      "normalized": "riders",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:22:21Z",
+      "last_checked": "2026-08-23T12:34:24Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 137
+    },
+    {
+      "tag": "garlic",
+      "normalized": "garlic",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-23T12:34:23Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 126
+    },
+    {
+      "tag": "gaming",
+      "normalized": "gaming",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-23T12:34:22Z",
+      "response_code": "RESERVED_TAG",
+      "latency_ms": 221
+    },
+    {
+      "tag": "garcia",
+      "normalized": "garcia",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-23T12:34:22Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 122
+    },
+    {
+      "tag": "eleven",
+      "normalized": "eleven",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-23T12:34:21Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 128
+    },
+    {
+      "tag": "eminem",
+      "normalized": "eminem",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-23T12:34:21Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 130
+    },
     {
       "tag": "edward",
       "normalized": "edward",
@@ -3191,116 +3301,6 @@
       "last_checked": "2026-08-23T12:31:31Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 125
-    },
-    {
-      "tag": "java",
-      "normalized": "java",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-23T12:31:31Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 122
-    },
-    {
-      "tag": "hints",
-      "normalized": "hints",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-23T12:31:30Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 119
-    },
-    {
-      "tag": "hired",
-      "normalized": "hired",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-23T12:31:30Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 122
-    },
-    {
-      "tag": "gotta",
-      "normalized": "gotta",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:42Z",
-      "last_checked": "2026-08-23T12:31:29Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 124
-    },
-    {
-      "tag": "grows",
-      "normalized": "grows",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:48Z",
-      "last_checked": "2026-08-23T12:31:29Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 119
-    },
-    {
-      "tag": "fotos",
-      "normalized": "fotos",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:23Z",
-      "last_checked": "2026-08-23T12:31:28Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 126
-    },
-    {
-      "tag": "fires",
-      "normalized": "fires",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:10Z",
-      "last_checked": "2026-08-23T12:31:27Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 122
-    },
-    {
-      "tag": "forth",
-      "normalized": "forth",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:22Z",
-      "last_checked": "2026-08-23T12:31:27Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 119
-    },
-    {
-      "tag": "falls",
-      "normalized": "falls",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:01:55Z",
-      "last_checked": "2026-08-23T12:31:26Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 119
-    },
-    {
-      "tag": "farms",
-      "normalized": "farms",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:01:57Z",
-      "last_checked": "2026-08-23T12:31:26Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 122
     }
   ]
 }
