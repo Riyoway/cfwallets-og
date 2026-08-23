@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T20:07:08Z",
+  "updatedAt": "2026-08-23T20:38:43Z",
   "items": [
+    {
+      "tag": "baths",
+      "normalized": "baths",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T08:59:44Z",
+      "last_checked": "2026-08-23T20:38:43Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 667
+    },
     {
       "tag": "administrators",
       "normalized": "administrators",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-23T19:58:47Z",
       "response_code": "AVAILABLE",
       "latency_ms": 214
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-23T19:58:47Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 226
     }
   ]
 }
