@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T21:44:57Z",
+  "updatedAt": "2026-08-23T21:48:30Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-23T21:48:30Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 814
+    },
+    {
+      "tag": "victorian",
+      "normalized": "victorian",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:07:05Z",
+      "last_checked": "2026-08-23T21:46:37Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 215
+    },
     {
       "tag": "interracial",
       "normalized": "interracial",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-23T20:58:54Z",
       "response_code": "AVAILABLE",
       "latency_ms": 215
-    },
-    {
-      "tag": "contracting",
-      "normalized": "contracting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:24Z",
-      "last_checked": "2026-08-23T20:58:54Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 214
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-23T20:58:53Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 222
     }
   ]
 }
