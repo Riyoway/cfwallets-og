@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T06:36:00Z",
+  "updatedAt": "2026-08-23T06:46:13Z",
   "items": [
+    {
+      "tag": "recreational",
+      "normalized": "recreational",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:23:08Z",
+      "last_checked": "2026-08-23T06:46:13Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 404
+    },
     {
       "tag": "curves",
       "normalized": "curves",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-23T06:30:58Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 133
-    },
-    {
-      "tag": "java",
-      "normalized": "java",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-23T06:30:58Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 132
     }
   ]
 }
