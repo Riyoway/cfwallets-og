@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T06:35:49Z",
+  "updatedAt": "2026-08-24T06:46:35Z",
   "items": [
+    {
+      "tag": "recreational",
+      "normalized": "recreational",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:23:08Z",
+      "last_checked": "2026-08-24T06:46:35Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 671
+    },
+    {
+      "tag": "curves",
+      "normalized": "curves",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:16:48Z",
+      "last_checked": "2026-08-24T06:36:09Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 186
+    },
     {
       "tag": "voyeur",
       "normalized": "voyeur",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-24T06:32:59Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 121
-    },
-    {
-      "tag": "hired",
-      "normalized": "hired",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-24T06:32:58Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 124
-    },
-    {
-      "tag": "java",
-      "normalized": "java",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-24T06:32:58Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 125
     }
   ]
 }
