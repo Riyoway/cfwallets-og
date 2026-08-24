@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T18:38:10Z",
+  "updatedAt": "2026-08-24T18:46:39Z",
   "items": [
+    {
+      "tag": "recreational",
+      "normalized": "recreational",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:23:08Z",
+      "last_checked": "2026-08-24T18:46:39Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 287
+    },
     {
       "tag": "curves",
       "normalized": "curves",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-24T18:35:19Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 131
-    },
-    {
-      "tag": "holes",
-      "normalized": "holes",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:05Z",
-      "last_checked": "2026-08-24T18:35:19Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 120
     }
   ]
 }
