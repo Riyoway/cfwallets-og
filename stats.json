@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T13:09:50Z",
+  "updatedAt": "2026-08-24T13:19:08Z",
   "total": 10315,
   "pending": 0,
   "available": 753,
-  "taken": 9438,
-  "error": 124,
+  "taken": 9441,
+  "error": 121,
   "categories": {
     "common": 686,
     "design": 4,
