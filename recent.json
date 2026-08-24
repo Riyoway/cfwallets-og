@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T00:46:31Z",
+  "updatedAt": "2026-08-24T00:49:00Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-24T00:49:00Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 527
+    },
+    {
+      "tag": "dayton",
+      "normalized": "dayton",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:16:53Z",
+      "last_checked": "2026-08-24T00:49:00Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 215
+    },
     {
       "tag": "recreational",
       "normalized": "recreational",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-24T00:32:37Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 128
-    },
-    {
-      "tag": "holes",
-      "normalized": "holes",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:05Z",
-      "last_checked": "2026-08-24T00:32:36Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 138
-    },
-    {
-      "tag": "hoped",
-      "normalized": "hoped",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:10Z",
-      "last_checked": "2026-08-24T00:32:36Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 229
     }
   ]
 }
