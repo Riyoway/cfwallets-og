@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T14:39:06Z",
+  "updatedAt": "2026-08-24T14:49:03Z",
   "items": [
+    {
+      "tag": "approx",
+      "normalized": "approx",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:14:57Z",
+      "last_checked": "2026-08-24T14:49:03Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 623
+    },
     {
       "tag": "baths",
       "normalized": "baths",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-24T14:01:04Z",
       "response_code": "AVAILABLE",
       "latency_ms": 246
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-24T14:01:03Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 237
     }
   ]
 }
