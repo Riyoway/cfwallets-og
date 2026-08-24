@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T12:46:35Z",
+  "updatedAt": "2026-08-24T12:49:52Z",
   "tags": [
     {
       "tag": "filme",
@@ -275,10 +275,10 @@
       "source": "common",
       "rank": 3659,
       "first_available": "2026-08-05T09:15:46Z",
-      "last_checked": "2026-08-24T11:49:51Z",
+      "last_checked": "2026-08-24T12:49:52Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 218,
-      "check_count": 845,
+      "latency_ms": 301,
+      "check_count": 846,
       "score": 72,
       "length": 6
     },
