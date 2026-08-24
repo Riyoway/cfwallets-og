@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T04:07:57Z",
+  "updatedAt": "2026-08-24T04:30:28Z",
   "items": [
+    {
+      "tag": "duties",
+      "normalized": "duties",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:18Z",
+      "last_checked": "2026-08-24T04:30:28Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 127
+    },
+    {
+      "tag": "filing",
+      "normalized": "filing",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:46Z",
+      "last_checked": "2026-08-24T04:30:28Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 125
+    },
+    {
+      "tag": "durham",
+      "normalized": "durham",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:17Z",
+      "last_checked": "2026-08-24T04:30:27Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 314
+    },
     {
       "tag": "administrators",
       "normalized": "administrators",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-24T03:59:28Z",
       "response_code": "AVAILABLE",
       "latency_ms": 247
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-24T03:59:27Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 254
-    },
-    {
-      "tag": "continually",
-      "normalized": "continually",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:23Z",
-      "last_checked": "2026-08-24T03:59:27Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 256
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-24T03:59:26Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 260
     }
   ]
 }
