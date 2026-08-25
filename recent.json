@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T18:46:49Z",
+  "updatedAt": "2026-08-25T18:51:18Z",
   "items": [
+    {
+      "tag": "sienna",
+      "normalized": "sienna",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-25T18:51:18Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 409
+    },
     {
       "tag": "recreational",
       "normalized": "recreational",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-25T18:37:33Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 125
-    },
-    {
-      "tag": "hired",
-      "normalized": "hired",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-25T18:37:32Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 122
     }
   ]
 }
