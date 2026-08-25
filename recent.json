@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T15:45:29Z",
+  "updatedAt": "2026-08-25T15:49:13Z",
   "items": [
+    {
+      "tag": "bezier",
+      "normalized": "bezier",
+      "category": "design",
+      "source": "design",
+      "status": "taken",
+      "first_available": "2026-08-05T09:09:33Z",
+      "last_checked": "2026-08-25T15:49:13Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 326
+    },
+    {
+      "tag": "victorian",
+      "normalized": "victorian",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:07:05Z",
+      "last_checked": "2026-08-25T15:46:56Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 258
+    },
     {
       "tag": "interracial",
       "normalized": "interracial",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-25T15:04:11Z",
       "response_code": "AVAILABLE",
       "latency_ms": 270
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-25T15:04:10Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 272
-    },
-    {
-      "tag": "continually",
-      "normalized": "continually",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:23Z",
-      "last_checked": "2026-08-25T15:04:10Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 284
     }
   ]
 }
