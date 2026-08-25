@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T14:49:29Z",
+  "updatedAt": "2026-08-25T14:52:06Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-25T14:52:06Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 407
+    },
     {
       "tag": "approx",
       "normalized": "approx",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-25T14:04:09Z",
       "response_code": "AVAILABLE",
       "latency_ms": 372
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-25T14:04:08Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 452
     }
   ]
 }
