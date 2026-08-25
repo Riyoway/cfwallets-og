@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T11:50:10Z",
+  "updatedAt": "2026-08-25T11:52:10Z",
   "tags": [
     {
       "tag": "filme",
@@ -275,10 +275,10 @@
       "source": "common",
       "rank": 3659,
       "first_available": "2026-08-05T09:15:46Z",
-      "last_checked": "2026-08-25T10:51:44Z",
+      "last_checked": "2026-08-25T11:51:58Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 297,
-      "check_count": 868,
+      "latency_ms": 272,
+      "check_count": 869,
       "score": 72,
       "length": 6
     },
@@ -289,10 +289,10 @@
       "source": "common",
       "rank": 4521,
       "first_available": "2026-08-05T09:16:53Z",
-      "last_checked": "2026-08-25T10:51:45Z",
+      "last_checked": "2026-08-25T11:51:59Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 283,
-      "check_count": 1007,
+      "latency_ms": 284,
+      "check_count": 1008,
       "score": 68,
       "length": 6
     },
