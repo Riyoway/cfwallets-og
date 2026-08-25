@@ -1,7 +1,62 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T13:13:02Z",
+  "updatedAt": "2026-08-25T13:19:25Z",
   "items": [
+    {
+      "tag": "spending",
+      "normalized": "spending",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-25T13:19:25Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 146
+    },
+    {
+      "tag": "sponsors",
+      "normalized": "sponsors",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-25T13:19:25Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 143
+    },
+    {
+      "tag": "spanking",
+      "normalized": "spanking",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-25T13:19:24Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 511
+    },
+    {
+      "tag": "administrators",
+      "normalized": "administrators",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-25T13:14:03Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 26
+    },
+    {
+      "tag": "viagra",
+      "normalized": "viagra",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-25T13:14:03Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 434
+    },
     {
       "tag": "vagina",
       "normalized": "vagina",
@@ -3244,61 +3299,6 @@
       "status": "available",
       "first_available": "2026-08-05T10:17:26Z",
       "last_checked": "2026-08-25T13:04:01Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 280
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-25T13:04:00Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 273
-    },
-    {
-      "tag": "continually",
-      "normalized": "continually",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:23Z",
-      "last_checked": "2026-08-25T13:04:00Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 269
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-25T13:03:59Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 276
-    },
-    {
-      "tag": "configuring",
-      "normalized": "configuring",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:10Z",
-      "last_checked": "2026-08-25T13:03:58Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 271
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-25T13:03:58Z",
       "response_code": "AVAILABLE",
       "latency_ms": 280
     }
