@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T03:12:02Z",
+  "updatedAt": "2026-08-25T03:45:21Z",
   "items": [
+    {
+      "tag": "interracial",
+      "normalized": "interracial",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:18:30Z",
+      "last_checked": "2026-08-25T03:45:21Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 240
+    },
     {
       "tag": "administrators",
       "normalized": "administrators",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-25T03:02:46Z",
       "response_code": "AVAILABLE",
       "latency_ms": 238
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-25T03:02:46Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 235
     }
   ]
 }
