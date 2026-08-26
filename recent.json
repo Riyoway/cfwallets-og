@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T18:47:01Z",
+  "updatedAt": "2026-08-26T18:51:31Z",
   "items": [
+    {
+      "tag": "sienna",
+      "normalized": "sienna",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T18:51:31Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 336
+    },
+    {
+      "tag": "silver",
+      "normalized": "silver",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T18:51:31Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 137
+    },
     {
       "tag": "recreational",
       "normalized": "recreational",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-26T18:39:07Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 123
-    },
-    {
-      "tag": "holes",
-      "normalized": "holes",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:05Z",
-      "last_checked": "2026-08-26T18:39:06Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 121
-    },
-    {
-      "tag": "jazz",
-      "normalized": "jazz",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-26T18:39:06Z",
-      "response_code": "RESERVED_TAG",
-      "latency_ms": 222
     }
   ]
 }
