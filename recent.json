@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T00:40:53Z",
+  "updatedAt": "2026-08-26T00:46:50Z",
   "items": [
+    {
+      "tag": "recreational",
+      "normalized": "recreational",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:23:08Z",
+      "last_checked": "2026-08-26T00:46:50Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 179
+    },
     {
       "tag": "riders",
       "normalized": "riders",
@@ -3288,17 +3299,6 @@
       "status": "taken",
       "first_available": "2026-08-05T09:03:05Z",
       "last_checked": "2026-08-26T00:38:02Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 140
-    },
-    {
-      "tag": "hints",
-      "normalized": "hints",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-26T00:38:01Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 140
     }
