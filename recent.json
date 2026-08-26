@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T09:49:26Z",
+  "updatedAt": "2026-08-26T09:53:15Z",
   "items": [
+    {
+      "tag": "showers",
+      "normalized": "showers",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:39:46Z",
+      "last_checked": "2026-08-26T09:53:15Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 210
+    },
     {
       "tag": "bezier",
       "normalized": "bezier",
@@ -3290,17 +3301,6 @@
       "last_checked": "2026-08-26T09:06:12Z",
       "response_code": "AVAILABLE",
       "latency_ms": 258
-    },
-    {
-      "tag": "continually",
-      "normalized": "continually",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:23Z",
-      "last_checked": "2026-08-26T09:06:04Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 230
     }
   ]
 }
