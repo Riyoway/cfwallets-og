@@ -1,7 +1,51 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T12:41:27Z",
+  "updatedAt": "2026-08-26T12:46:54Z",
   "items": [
+    {
+      "tag": "recreational",
+      "normalized": "recreational",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:23:08Z",
+      "last_checked": "2026-08-26T12:46:54Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 361
+    },
+    {
+      "tag": "voyeur",
+      "normalized": "voyeur",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:24:59Z",
+      "last_checked": "2026-08-26T12:41:33Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 129
+    },
+    {
+      "tag": "garmin",
+      "normalized": "garmin",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T12:41:32Z",
+      "response_code": "RESERVED_TAG",
+      "latency_ms": 224
+    },
+    {
+      "tag": "riders",
+      "normalized": "riders",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:22:21Z",
+      "last_checked": "2026-08-26T12:41:32Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 123
+    },
     {
       "tag": "curves",
       "normalized": "curves",
@@ -3257,50 +3301,6 @@
       "last_checked": "2026-08-26T12:38:38Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 136
-    },
-    {
-      "tag": "hints",
-      "normalized": "hints",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-26T12:38:37Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 131
-    },
-    {
-      "tag": "hired",
-      "normalized": "hired",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-26T12:38:37Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 140
-    },
-    {
-      "tag": "gotta",
-      "normalized": "gotta",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:42Z",
-      "last_checked": "2026-08-26T12:38:36Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 131
-    },
-    {
-      "tag": "grows",
-      "normalized": "grows",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:48Z",
-      "last_checked": "2026-08-26T12:38:36Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 139
     }
   ]
 }
