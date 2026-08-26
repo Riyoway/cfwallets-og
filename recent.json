@@ -1,7 +1,51 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T10:15:57Z",
+  "updatedAt": "2026-08-26T10:31:07Z",
   "items": [
+    {
+      "tag": "duties",
+      "normalized": "duties",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:18Z",
+      "last_checked": "2026-08-26T10:31:07Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 129
+    },
+    {
+      "tag": "filing",
+      "normalized": "filing",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:46Z",
+      "last_checked": "2026-08-26T10:31:07Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 123
+    },
+    {
+      "tag": "durham",
+      "normalized": "durham",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:17Z",
+      "last_checked": "2026-08-26T10:31:06Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 187
+    },
+    {
+      "tag": "administrators",
+      "normalized": "administrators",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-26T10:16:25Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 60
+    },
     {
       "tag": "viagra",
       "normalized": "viagra",
@@ -3257,50 +3301,6 @@
       "last_checked": "2026-08-26T10:06:07Z",
       "response_code": "AVAILABLE",
       "latency_ms": 231
-    },
-    {
-      "tag": "contracting",
-      "normalized": "contracting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:24Z",
-      "last_checked": "2026-08-26T10:06:07Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 222
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-26T10:06:06Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-26T10:06:05Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 219
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-26T10:06:05Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 234
     }
   ]
 }
