@@ -1,7 +1,62 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T18:51:31Z",
+  "updatedAt": "2026-08-26T18:54:57Z",
   "items": [
+    {
+      "tag": "bufing",
+      "normalized": "bufing",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:15:46Z",
+      "last_checked": "2026-08-26T18:54:57Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 286
+    },
+    {
+      "tag": "dayton",
+      "normalized": "dayton",
+      "category": "common",
+      "source": "common",
+      "status": "available",
+      "first_available": "2026-08-05T09:16:53Z",
+      "last_checked": "2026-08-26T18:54:57Z",
+      "response_code": "AVAILABLE",
+      "latency_ms": 319
+    },
+    {
+      "tag": "marmot",
+      "normalized": "marmot",
+      "category": "animals",
+      "source": "animals",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T18:52:08Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 271
+    },
+    {
+      "tag": "lizard",
+      "normalized": "lizard",
+      "category": "animals",
+      "source": "animals",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T18:52:00Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 165
+    },
+    {
+      "tag": "tomato",
+      "normalized": "tomato",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T18:51:36Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 129
+    },
     {
       "tag": "sienna",
       "normalized": "sienna",
@@ -3246,61 +3301,6 @@
       "last_checked": "2026-08-26T18:39:09Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 124
-    },
-    {
-      "tag": "lined",
-      "normalized": "lined",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:04:00Z",
-      "last_checked": "2026-08-26T18:39:09Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 129
-    },
-    {
-      "tag": "weary",
-      "normalized": "weary",
-      "category": "emotions",
-      "source": "emotions",
-      "status": "taken",
-      "first_available": "2026-08-05T08:54:54Z",
-      "last_checked": "2026-08-26T18:39:08Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 128
-    },
-    {
-      "tag": "hopes",
-      "normalized": "hopes",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:10Z",
-      "last_checked": "2026-08-26T18:39:08Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 128
-    },
-    {
-      "tag": "hoped",
-      "normalized": "hoped",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:10Z",
-      "last_checked": "2026-08-26T18:39:07Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 122
-    },
-    {
-      "tag": "jean",
-      "normalized": "jean",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-26T18:39:07Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 123
     }
   ]
 }
