@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T01:15:22Z",
+  "updatedAt": "2026-08-26T01:19:28Z",
   "items": [
+    {
+      "tag": "spanking",
+      "normalized": "spanking",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T01:19:28Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 479
+    },
+    {
+      "tag": "spending",
+      "normalized": "spending",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T01:19:28Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 123
+    },
+    {
+      "tag": "sponsors",
+      "normalized": "sponsors",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-26T01:19:28Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 127
+    },
     {
       "tag": "administrators",
       "normalized": "administrators",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-26T01:05:25Z",
       "response_code": "AVAILABLE",
       "latency_ms": 259
-    },
-    {
-      "tag": "contracting",
-      "normalized": "contracting",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:24Z",
-      "last_checked": "2026-08-26T01:05:25Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 242
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-26T01:05:24Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 253
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-26T01:05:24Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 239
     }
   ]
 }
