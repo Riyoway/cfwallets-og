@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T12:13:10Z",
+  "updatedAt": "2026-08-27T12:15:13Z",
   "tags": [
     {
       "tag": "filme",
@@ -10453,10 +10453,10 @@
       "source": "common",
       "rank": 6236,
       "first_available": "2026-08-05T10:26:32Z",
-      "last_checked": "2026-08-27T11:12:56Z",
+      "last_checked": "2026-08-27T12:13:14Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 220,
-      "check_count": 318,
+      "latency_ms": 232,
+      "check_count": 319,
       "score": 10,
       "length": 15
     },
@@ -10467,10 +10467,10 @@
       "source": "common",
       "rank": 7760,
       "first_available": "2026-08-05T10:26:33Z",
-      "last_checked": "2026-08-27T11:12:56Z",
+      "last_checked": "2026-08-27T12:13:15Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 234,
-      "check_count": 318,
+      "latency_ms": 241,
+      "check_count": 319,
       "score": 10,
       "length": 15
     },
@@ -10481,10 +10481,10 @@
       "source": "common",
       "rank": 9753,
       "first_available": "2026-08-05T10:26:38Z",
-      "last_checked": "2026-08-27T11:12:57Z",
+      "last_checked": "2026-08-27T12:13:15Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 220,
-      "check_count": 306,
+      "latency_ms": 238,
+      "check_count": 307,
       "score": 10,
       "length": 15
     },
@@ -10495,10 +10495,10 @@
       "source": "common",
       "rank": 3894,
       "first_available": "2026-08-05T10:26:39Z",
-      "last_checked": "2026-08-27T11:12:57Z",
+      "last_checked": "2026-08-27T12:13:16Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 223,
-      "check_count": 306,
+      "latency_ms": 246,
+      "check_count": 307,
       "score": 15,
       "length": 16
     },
@@ -10509,10 +10509,10 @@
       "source": "common",
       "rank": 9244,
       "first_available": "2026-08-05T10:26:43Z",
-      "last_checked": "2026-08-27T11:12:58Z",
+      "last_checked": "2026-08-27T12:13:16Z",
       "response_code": "AVAILABLE",
-      "latency_ms": 227,
-      "check_count": 306,
+      "latency_ms": 234,
+      "check_count": 307,
       "score": 10,
       "length": 16
     }
