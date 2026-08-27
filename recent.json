@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T12:43:07Z",
+  "updatedAt": "2026-08-27T12:47:14Z",
   "items": [
+    {
+      "tag": "recreational",
+      "normalized": "recreational",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T10:23:08Z",
+      "last_checked": "2026-08-27T12:47:14Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 179
+    },
+    {
+      "tag": "riders",
+      "normalized": "riders",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:22:21Z",
+      "last_checked": "2026-08-27T12:43:14Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 593
+    },
+    {
+      "tag": "voyeur",
+      "normalized": "voyeur",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:24:59Z",
+      "last_checked": "2026-08-27T12:43:14Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 192
+    },
     {
       "tag": "garmin",
       "normalized": "garmin",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-27T12:40:17Z",
       "response_code": "RESERVED_TAG",
       "latency_ms": 229
-    },
-    {
-      "tag": "hired",
-      "normalized": "hired",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-27T12:40:16Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 135
-    },
-    {
-      "tag": "grows",
-      "normalized": "grows",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:02:48Z",
-      "last_checked": "2026-08-27T12:40:15Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 135
-    },
-    {
-      "tag": "hints",
-      "normalized": "hints",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-27T12:40:15Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 135
     }
   ]
 }
