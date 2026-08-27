@@ -1,7 +1,84 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T07:16:59Z",
+  "updatedAt": "2026-08-27T07:19:46Z",
   "items": [
+    {
+      "tag": "sponsors",
+      "normalized": "sponsors",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-27T07:19:46Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 127
+    },
+    {
+      "tag": "spanking",
+      "normalized": "spanking",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-27T07:19:45Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 159
+    },
+    {
+      "tag": "spending",
+      "normalized": "spending",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-27T07:19:45Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 127
+    },
+    {
+      "tag": "administrators",
+      "normalized": "administrators",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-27T07:18:56Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 66
+    },
+    {
+      "tag": "viagra",
+      "normalized": "viagra",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-27T07:18:32Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 234
+    },
+    {
+      "tag": "tranny",
+      "normalized": "tranny",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-27T07:17:44Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 69
+    },
+    {
+      "tag": "vagina",
+      "normalized": "vagina",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-27T07:17:44Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 23
+    },
     {
       "tag": "administration",
       "normalized": "administration",
@@ -3224,83 +3301,6 @@
       "last_checked": "2026-08-27T07:08:13Z",
       "response_code": "AVAILABLE",
       "latency_ms": 231
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-27T07:08:12Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 274
-    },
-    {
-      "tag": "consultancy",
-      "normalized": "consultancy",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:20Z",
-      "last_checked": "2026-08-27T07:08:12Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 226
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-27T07:08:04Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 236
-    },
-    {
-      "tag": "configuring",
-      "normalized": "configuring",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:10Z",
-      "last_checked": "2026-08-27T07:08:03Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 236
-    },
-    {
-      "tag": "compilation",
-      "normalized": "compilation",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:05Z",
-      "last_checked": "2026-08-27T07:08:02Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 245
-    },
-    {
-      "tag": "conclusions",
-      "normalized": "conclusions",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:07Z",
-      "last_checked": "2026-08-27T07:08:02Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 237
-    },
-    {
-      "tag": "circulation",
-      "normalized": "circulation",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:16:57Z",
-      "last_checked": "2026-08-27T07:08:01Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 233
     }
   ]
 }
