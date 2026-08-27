@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T20:40:03Z",
+  "updatedAt": "2026-08-27T20:50:01Z",
   "items": [
+    {
+      "tag": "approx",
+      "normalized": "approx",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:14:57Z",
+      "last_checked": "2026-08-27T20:50:01Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 178
+    },
     {
       "tag": "baths",
       "normalized": "baths",
@@ -3288,17 +3299,6 @@
       "status": "available",
       "first_available": "2026-08-05T10:17:23Z",
       "last_checked": "2026-08-27T20:09:27Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-27T20:09:19Z",
       "response_code": "AVAILABLE",
       "latency_ms": 225
     }
