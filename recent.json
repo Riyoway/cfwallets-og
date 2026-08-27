@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-27T12:47:14Z",
+  "updatedAt": "2026-08-27T12:51:44Z",
   "items": [
+    {
+      "tag": "silver",
+      "normalized": "silver",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-27T12:51:44Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 127
+    },
+    {
+      "tag": "tomato",
+      "normalized": "tomato",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-27T12:51:44Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 128
+    },
+    {
+      "tag": "sienna",
+      "normalized": "sienna",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-27T12:51:43Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 190
+    },
     {
       "tag": "recreational",
       "normalized": "recreational",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-27T12:40:18Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 132
-    },
-    {
-      "tag": "jean",
-      "normalized": "jean",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-27T12:40:18Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 131
-    },
-    {
-      "tag": "holes",
-      "normalized": "holes",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:05Z",
-      "last_checked": "2026-08-27T12:40:17Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 129
-    },
-    {
-      "tag": "jazz",
-      "normalized": "jazz",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-27T12:40:17Z",
-      "response_code": "RESERVED_TAG",
-      "latency_ms": 229
     }
   ]
 }
