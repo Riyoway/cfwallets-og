@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T04:20:38Z",
+  "updatedAt": "2026-08-28T04:31:31Z",
   "items": [
+    {
+      "tag": "durham",
+      "normalized": "durham",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:17Z",
+      "last_checked": "2026-08-28T04:31:31Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 411
+    },
+    {
+      "tag": "duties",
+      "normalized": "duties",
+      "category": "common",
+      "source": "common",
+      "status": "taken",
+      "first_available": "2026-08-05T09:17:18Z",
+      "last_checked": "2026-08-28T04:31:31Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 140
+    },
+    {
+      "tag": "administrators",
+      "normalized": "administrators",
+      "category": "common",
+      "source": "common",
+      "status": "error",
+      "first_available": null,
+      "last_checked": "2026-08-28T04:21:22Z",
+      "response_code": "HTTPSTATUSERROR",
+      "latency_ms": 60
+    },
     {
       "tag": "viagra",
       "normalized": "viagra",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-28T04:09:55Z",
       "response_code": "AVAILABLE",
       "latency_ms": 1310
-    },
-    {
-      "tag": "constitutes",
-      "normalized": "constitutes",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-28T04:09:53Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 229
-    },
-    {
-      "tag": "constraints",
-      "normalized": "constraints",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:19Z",
-      "last_checked": "2026-08-28T04:09:53Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 225
-    },
-    {
-      "tag": "conclusions",
-      "normalized": "conclusions",
-      "category": "common",
-      "source": "common",
-      "status": "available",
-      "first_available": "2026-08-05T10:17:07Z",
-      "last_checked": "2026-08-28T04:09:52Z",
-      "response_code": "AVAILABLE",
-      "latency_ms": 226
     }
   ]
 }
