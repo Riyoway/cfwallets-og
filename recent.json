@@ -1,7 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T06:47:27Z",
+  "updatedAt": "2026-08-28T06:51:57Z",
   "items": [
+    {
+      "tag": "sienna",
+      "normalized": "sienna",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-28T06:51:57Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 657
+    },
+    {
+      "tag": "silver",
+      "normalized": "silver",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-28T06:51:57Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 158
+    },
     {
       "tag": "recreational",
       "normalized": "recreational",
@@ -3279,28 +3301,6 @@
       "last_checked": "2026-08-28T06:41:25Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 143
-    },
-    {
-      "tag": "hired",
-      "normalized": "hired",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-28T06:41:24Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 128
-    },
-    {
-      "tag": "jean",
-      "normalized": "jean",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-28T06:41:24Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 129
     }
   ]
 }
