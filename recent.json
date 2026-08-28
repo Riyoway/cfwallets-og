@@ -1,7 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T00:47:27Z",
+  "updatedAt": "2026-08-28T00:51:57Z",
   "items": [
+    {
+      "tag": "tomato",
+      "normalized": "tomato",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-28T00:51:57Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 133
+    },
+    {
+      "tag": "sienna",
+      "normalized": "sienna",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-28T00:51:56Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 180
+    },
+    {
+      "tag": "silver",
+      "normalized": "silver",
+      "category": "colors",
+      "source": "colors",
+      "status": "taken",
+      "first_available": null,
+      "last_checked": "2026-08-28T00:51:56Z",
+      "response_code": "TAG_TAKEN",
+      "latency_ms": 133
+    },
     {
       "tag": "recreational",
       "normalized": "recreational",
@@ -3268,39 +3301,6 @@
       "last_checked": "2026-08-28T00:41:05Z",
       "response_code": "TAG_TAKEN",
       "latency_ms": 123
-    },
-    {
-      "tag": "holes",
-      "normalized": "holes",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:05Z",
-      "last_checked": "2026-08-28T00:41:05Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 120
-    },
-    {
-      "tag": "hired",
-      "normalized": "hired",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": "2026-08-05T09:03:03Z",
-      "last_checked": "2026-08-28T00:41:04Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 124
-    },
-    {
-      "tag": "jean",
-      "normalized": "jean",
-      "category": "common",
-      "source": "common",
-      "status": "taken",
-      "first_available": null,
-      "last_checked": "2026-08-28T00:41:04Z",
-      "response_code": "TAG_TAKEN",
-      "latency_ms": 129
     }
   ]
 }
